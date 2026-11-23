@@ -1,9 +1,8 @@
 # Schwedenrätsel-Generator mit Claude als Lektor
 
-Ein Desktop-Programm, das aus einer getaggten Wortdatenbank druckfertige Schwedenrätsel erzeugt, wie man sie
-aus Zeitschriften kennt. Die Rätsel werden ausgedruckt und von Hand gelöst. Ich habe damit persönliche Rätsel
-als Geschenke gemacht. Eine KI (Claude von Anthropic) prüft als Lektor die Datenbank
-und fertige Rätsel.
+Ein Desktop-Programm, das aus einer Wortdatenbank Schwedenrätsel erzeugt, wie man sie
+aus Zeitschriften kennt. Die Rätsel können dann ausgedruckt und von Hand gelöst werden. Dies entstand aus der Idee, persönliche Rätsel
+zu verschenken. Ein KI-Agent (Claude von Anthropic) kann wenn gewünscht als Lektor die Datenbank und fertige Rätsel überprüfen.
 
 Die Idee, die Anforderungen und alle Produktentscheidungen stammen von mir. Den Code habe ich mit
 [Claude Code](https://claude.com/claude-code) geschrieben. Das Projekt zeigt, wie ich mit einem KI-Coding-Agenten
@@ -20,7 +19,7 @@ von einer Idee zu einem fertigen Werkzeug komme und wie ich ein Sprachmodell gez
 
 ## Was das Programm kann
 
-- **Echte Schwedenrätsel:** Die Fragen stehen im Gitter, Pfeile zeigen gerade oder abgeknickt auf das Wort. Jede
+- **Schwedenrätsel:** Die Fragen stehen im Gitter, Pfeile zeigen gerade oder abgeknickt auf das Wort. Jede
   Frage hat ein eigenes Kästchen, es gibt keine grauen Leerfelder, und fast jeder Buchstabe gehört zu zwei Wörtern.
 - **Themen:** Wörter sind getaggt (`tiere`, `geographie`, eigene Tags für persönliche Rätsel). Der Generator
   bevorzugt Themenwörter und füllt mit kurzen Füllwörtern auf. Ein Themen-Modus erzeugt N Rätsel und behält das
@@ -28,15 +27,15 @@ von einer Idee zu einem fertigen Werkzeug komme und wie ich ein Sprachmodell gez
 - **Druckfertiges PDF** in A4 oder A5 zum Falten, mit Lösungswort und Lösungsblatt, inklusive deutscher
   Silbentrennung in den Fragekästchen.
 - **Datenbank-Pflege** in einer Oberfläche: Suche, Filter, Herkunft jedes Begriffs (automatisch erzeugt, selbst
-  eingegeben, eingesendet) und ein Dashboard, das zeigt, welche Wortlängen dem Generator fehlen.
-- **Einsendungen:** Familie und Freunde reichen Begriffe über ein Google-Formular ein, das Programm übernimmt
-  sie mit Dublettenprüfung.
+  eingegeben, eingesendet) und ein Dashboard, das die Datenbank analysiert und zeigt, welche Wortlängen dem Generator fehlen.
+- **Einsendungen:** Familie und Freunde können Begriffe über ein Google-Formular einreichen, das Programm übernimmt
+  sie (mit Duplciate-Prüfung).
 - **Claude als Lektor:** bewertet jeden Begriff und begutachtet fertige Rätsel (siehe unten).
 
 ## Algorithmus und Sprachmodell: wer macht was?
 
-Am Anfang stand die Frage, ob ein Agent das ganze Rätsel entwerfen könnte. Meine Antwort war nein. Ein dichtes
-Schwedenrätsel ist ein hartes Problem aus Buchstaben-Bedingungen. Ein Suchalgorithmus löst es in Sekunden und
+Am Anfang stand die Frage, ob ein Agent das ganze Rätsel entwerfen könnte. Die Antwort war nein, da ein dichtes
+Schwedenrätsel ein hartes Problem aus vielen Buchstaben-Bedingungen ist. Ein Suchalgorithmus löst es in Sekunden und
 garantiert jede Kreuzung. Sprachmodelle verzählen sich bei Buchstaben. Dafür beurteilen sie Sprache gut: Ist eine
 Frage richtig, eindeutig und kurz genug? Kennt man den Begriff? Passen die Füllwörter zum Thema?
 
@@ -60,7 +59,7 @@ Die Anbindung steckt in [`sr/claude_check.py`](sr/claude_check.py) und nutzt das
   Tags. Ein neuer Durchlauf schickt nur neue und geänderte Begriffe an Claude.
 - **Kosten im Griff:** Vor dem Start schätzt das Programm die Kosten und fragt nach. Danach zeigt es die echten
   Kosten aus den Token-Zählern. Die Begriffe gehen in Paketen von 60 an Claude, vier Anfragen laufen parallel.
-  Eine Prüfung der ganzen Beispiel-Datenbank kostet wenige Dollar, ein einzelnes Rätsel wenige Cent.
+  Eine Prüfung der ganzen Beispiel-Datenbank kostet wenige Euros, ein einzelnes Rätsel wenige Cent.
 - **Robust:** Fertige Pakete werden sofort gespeichert. Abbruch oder Fehler kosten keine bereits bezahlte Arbeit.
   Lehnt das Modell eine Anfrage ab, springt serverseitig ein Ersatzmodell ein. Fehler erscheinen als
   verständliche Meldungen statt als Programmabsturz.
@@ -71,10 +70,6 @@ Die Anbindung steckt in [`sr/claude_check.py`](sr/claude_check.py) und nutzt das
   „Begriff meiden“. Mit ★1 bewertete Begriffe lässt der Generator auf Wunsch weg.
 - **Kein Schlüssel im Code:** Der API-Schlüssel kommt aus einer Umgebungsvariablen oder liegt im Benutzerprofil,
   nie im Projektordner.
-
-Ein Beispiel aus dem ersten echten Test: Claude bemerkte, dass vier Fragen im selben Rätsel nach dem Muster
-„Abk.: …“ gebaut waren. Außerdem landeten Füllwörter aus einem persönlichen Thema in fremden Rätseln. Das war ein
-echter Fehler in der Wortauswahl, den keine Statistik so direkt gezeigt hätte.
 
 ## Wie ich mit Claude Code gearbeitet habe
 
