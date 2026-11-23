@@ -11,7 +11,6 @@ von einer Idee zu einem fertigen Werkzeug komme und wie ich ein Sprachmodell gez
 <p align="center">
   <img src="docs/beispiel_raetsel.png" width="48%" alt="Beispielrätsel zum Thema Tiere">
   <img src="docs/beispiel_loesung.png" width="48%" alt="Lösungsblatt zum Beispielrätsel">
-  <img src="docs/oberflaeche.png" width="48%" alt="Lösungsblatt zum Beispielrätsel">
 </p>
 <p align="center"><sub>Erzeugt mit <code>tools/beispielbild.py</code> aus der öffentlichen Beispiel-Datenbank:
 11 × 11 Felder, 42 Wörter, davon 15 zum Thema Tiere, Lösungswort SCHOLLE.</sub></p>
