@@ -11,11 +11,16 @@ von einer Idee zu einem fertigen Werkzeug komme und wie ich ein Sprachmodell gez
 <p align="center">
   <img src="docs/beispiel_raetsel.png" width="48%" alt="Beispielrätsel zum Thema Tiere">
   <img src="docs/beispiel_loesung.png" width="48%" alt="Lösungsblatt zum Beispielrätsel">
+  <img src="docs/oberflaeche.png" width="48%" alt="Lösungsblatt zum Beispielrätsel">
 </p>
 <p align="center"><sub>Erzeugt mit <code>tools/beispielbild.py</code> aus der öffentlichen Beispiel-Datenbank:
 11 × 11 Felder, 42 Wörter, davon 15 zum Thema Tiere, Lösungswort SCHOLLE.</sub></p>
 
 <!-- Screenshot der Oberfläche hier einfügen, z. B. docs/oberflaeche.png -->
+<p align="center">
+  <img src="docs/oberflaeche.png" width="48%" alt="Lösungsblatt zum Beispielrätsel">
+</p>
+<p align="center"><sub>Screenshot der Generator-Oberfläche</sub></p>
 
 ## Was das Programm kann
 
@@ -29,7 +34,7 @@ von einer Idee zu einem fertigen Werkzeug komme und wie ich ein Sprachmodell gez
 - **Datenbank-Pflege** in einer Oberfläche: Suche, Filter, Herkunft jedes Begriffs (automatisch erzeugt, selbst
   eingegeben, eingesendet) und ein Dashboard, das die Datenbank analysiert und zeigt, welche Wortlängen dem Generator fehlen.
 - **Einsendungen:** Familie und Freunde können Begriffe über ein Google-Formular einreichen, das Programm übernimmt
-  sie (mit Duplciate-Prüfung).
+  sie (mit Duplikat-Prüfung).
 - **Claude als Lektor:** bewertet jeden Begriff und begutachtet fertige Rätsel (siehe unten).
 
 ## Algorithmus und Sprachmodell: wer macht was?
@@ -59,7 +64,7 @@ Die Anbindung steckt in [`sr/claude_check.py`](sr/claude_check.py) und nutzt das
   Tags. Ein neuer Durchlauf schickt nur neue und geänderte Begriffe an Claude.
 - **Kosten im Griff:** Vor dem Start schätzt das Programm die Kosten und fragt nach. Danach zeigt es die echten
   Kosten aus den Token-Zählern. Die Begriffe gehen in Paketen von 60 an Claude, vier Anfragen laufen parallel.
-  Eine Prüfung der ganzen Beispiel-Datenbank kostet wenige Euros, ein einzelnes Rätsel wenige Cent.
+  Eine Prüfung der ganzen Beispiel-Datenbank kostet wenige Euro, ein einzelnes Rätsel wenige Cent.
 - **Robust:** Fertige Pakete werden sofort gespeichert. Abbruch oder Fehler kosten keine bereits bezahlte Arbeit.
   Lehnt das Modell eine Anfrage ab, springt serverseitig ein Ersatzmodell ein. Fehler erscheinen als
   verständliche Meldungen statt als Programmabsturz.
