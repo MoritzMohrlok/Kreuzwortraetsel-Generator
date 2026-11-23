@@ -1,0 +1,22 @@
+# Private Daten: eigene Wortdatenbank, Sicherungen, Einstellungen, Prüfergebnisse, Tag-Erklärungen
+woerter.csv
+woerter_backup*.csv
+einstellungen.json
+pruefung.json
+tag_hinweise.txt
+.pruefung-*.json
+.woerter-*.csv
+
+# Erzeugte Rätsel (PDF), auch in Unterordnern
+*.pdf
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Sonstiges
+.Rhistory
+.claude/
+*.key
+*key*.txt
