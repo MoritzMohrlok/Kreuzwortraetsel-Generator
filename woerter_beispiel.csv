@@ -1,0 +1,1148 @@
+﻿id;frage;antwort;laenge;tags;quelle;erstellt
+1;Haustier, miaut;Katze;5;tiere,haustiere;auto;2026-11-10
+2;Bellender Vierbeiner;Hund;4;tiere,haustiere;auto;2026-11-10
+3;König der Tiere;Löwe;5;tiere,afrika;auto;2026-11-10
+4;Gestreiftes Pferd;Zebra;5;tiere,afrika;auto;2026-11-10
+5;Rüsseltier;Elefant;7;tiere,afrika;auto;2026-11-10
+6;Langhalsiges Tier;Giraffe;7;tiere,afrika;auto;2026-11-10
+7;Kleines Nagetier;Maus;4;tiere;auto;2026-11-10
+8;Wappenvogel;Adler;5;tiere,voegel;auto;2026-11-10
+9;Nachtvogel;Eule;4;tiere,voegel;auto;2026-11-10
+10;Rabenvogel;Krähe;6;tiere,voegel;auto;2026-11-10
+11;Bunter Sprechvogel;Papagei;7;tiere,voegel;auto;2026-11-10
+12;Storch in der Fabel;Adebar;6;tiere,voegel,literatur;auto;2026-11-10
+13;Größtes Meerestier;Wal;3;tiere,meer,kurzwort;auto;2026-11-10
+14;Kluger Meeressäuger;Delfin;6;tiere,meer;auto;2026-11-10
+15;Raubfisch mit spitzem Maul;Hecht;5;tiere,fische;auto;2026-11-10
+16;Lachsartiger Fisch;Forelle;7;tiere,fische;auto;2026-11-10
+17;Achtarmiges Meerestier;Krake;5;tiere,meer;auto;2026-11-10
+18;Honigsammler;Biene;5;tiere,insekten;auto;2026-11-10
+19;Stechendes Insekt;Mücke;6;tiere,insekten;auto;2026-11-10
+20;Achtbeiniges Krabbeltier;Spinne;6;tiere;auto;2026-11-10
+21;Waldtier mit Geweih;Hirsch;6;tiere,wald;auto;2026-11-10
+22;Fuchs in der Fabel;Reineke;7;tiere,literatur;auto;2026-11-10
+23;Stacheltier;Igel;4;tiere,wald;auto;2026-11-10
+24;Damm bauendes Nagetier;Biber;5;tiere;auto;2026-11-10
+25;Milchlieferant;Kuh;3;tiere,bauernhof,kurzwort;auto;2026-11-10
+26;Wollspender;Schaf;5;tiere,bauernhof;auto;2026-11-10
+27;Grunzendes Hoftier;Schwein;7;tiere,bauernhof;auto;2026-11-10
+28;Meckerndes Tier;Ziege;5;tiere,bauernhof;auto;2026-11-10
+29;Eierlegendes Hoftier;Huhn;4;tiere,bauernhof;auto;2026-11-10
+30;Männliches Huhn;Hahn;4;tiere,bauernhof;auto;2026-11-10
+31;Reittier;Pferd;5;tiere,bauernhof;auto;2026-11-10
+32;Grauer Lastenträger;Esel;4;tiere,bauernhof;auto;2026-11-10
+33;Wüstenschiff;Kamel;5;tiere,wueste;auto;2026-11-10
+34;Gefleckte Großkatze;Leopard;7;tiere,afrika;auto;2026-11-10
+35;Schnellstes Landtier;Gepard;6;tiere,afrika;auto;2026-11-10
+36;Gestreifte Großkatze;Tiger;5;tiere,asien;auto;2026-11-10
+37;Schwarz-weißer Bär;Panda;5;tiere,asien;auto;2026-11-10
+38;Australisches Beuteltier;Känguru;8;tiere,australien;auto;2026-11-10
+39;Australischer Laufvogel;Emu;3;tiere,australien,voegel,kurzwort;auto;2026-11-10
+40;Großer Laufvogel Afrikas;Strauß;7;tiere,afrika,voegel;auto;2026-11-10
+41;Quakende Amphibie;Frosch;6;tiere;auto;2026-11-10
+42;Kriechtier ohne Beine;Schlange;8;tiere;auto;2026-11-10
+43;Panzerechse;Krokodil;8;tiere,afrika;auto;2026-11-10
+44;Asiatisches Hochlandrind;Yak;3;tiere,asien,kurzwort;auto;2026-11-10
+45;Weißer Bär;Eisbär;7;tiere,arktis;auto;2026-11-10
+46;Robbenart;Seehund;7;tiere,meer;auto;2026-11-10
+47;Robbe mit Stoßzähnen;Walross;7;tiere,arktis,meer;auto;2026-11-10
+48;Nordamerikanisches Rentier;Karibu;6;tiere,arktis;auto;2026-11-10
+49;Kleiner Singvogel;Meise;5;tiere,voegel;auto;2026-11-10
+50;Schwarzer Singvogel;Amsel;5;tiere,voegel;auto;2026-11-10
+51;Stelzvogel am Teich;Reiher;6;tiere,voegel;auto;2026-11-10
+52;Kleiner Hühnervogel;Wachtel;7;tiere,voegel;auto;2026-11-10
+53;Größter Menschenaffe;Gorilla;7;tiere,afrika;auto;2026-11-10
+54;Roter Menschenaffe;Orang-Utan;9;tiere,asien;auto;2026-11-10
+55;Fleißiges Insekt;Ameise;6;tiere,insekten;auto;2026-11-10
+56;Nachtfalter;Motte;5;tiere,insekten;auto;2026-11-10
+57;Lama-Verwandter;Alpaka;6;tiere;auto;2026-11-10
+58;Weichtier mit Haus;Schnecke;8;tiere;auto;2026-11-10
+59;Zirpendes Insekt;Grille;6;tiere,insekten;auto;2026-11-10
+60;Plattfisch;Scholle;7;tiere,fische;auto;2026-11-10
+61;Silbriger Ostseefisch;Hering;6;tiere,fische;auto;2026-11-10
+62;Teichfisch;Karpfen;7;tiere,fische;auto;2026-11-10
+63;Schlangenförmiger Fisch;Aal;3;tiere,fische,kurzwort;auto;2026-11-10
+64;Größte Hirschart;Elch;4;tiere,wald;auto;2026-11-10
+65;Junges Rind;Kalb;4;tiere,bauernhof;auto;2026-11-10
+66;Junges Pferd;Fohlen;6;tiere,bauernhof;auto;2026-11-10
+67;Weibliches Schwein;Sau;3;tiere,bauernhof,kurzwort;auto;2026-11-10
+68;Männliches Schaf;Widder;6;tiere,bauernhof;auto;2026-11-10
+69;Nachtaktives Flugtier;Fledermaus;10;tiere;auto;2026-11-10
+70;Rudeltier im Wald;Wolf;4;tiere,wald;auto;2026-11-10
+71;Schlaues Raubtier;Fuchs;5;tiere,wald;auto;2026-11-10
+72;Kleiner Papagei;Sittich;7;tiere,voegel;auto;2026-11-10
+73;Lockige Hunderasse;Pudel;5;tiere,haustiere;auto;2026-11-10
+74;Kurzbeiniger Jagdhund;Dackel;6;tiere,haustiere;auto;2026-11-10
+75;Hauptstadt Italiens;Rom;3;geographie,europa,staedte,kurzwort;auto;2026-11-10
+76;Hauptstadt Frankreichs;Paris;5;geographie,europa,staedte;auto;2026-11-10
+77;Stadt der Liebe;Paris;5;geographie,europa,staedte;auto;2026-11-10
+78;Hauptstadt Spaniens;Madrid;6;geographie,europa,staedte;auto;2026-11-10
+79;Hauptstadt Norwegens;Oslo;4;geographie,europa,staedte;auto;2026-11-10
+80;Hauptstadt Österreichs;Wien;4;geographie,europa,staedte;auto;2026-11-10
+81;Hauptstadt Tschechiens;Prag;4;geographie,europa,staedte;auto;2026-11-10
+82;Hauptstadt Englands;London;6;geographie,europa,staedte;auto;2026-11-10
+83;Hauptstadt Portugals;Lissabon;8;geographie,europa,staedte;auto;2026-11-10
+84;Hauptstadt Griechenlands;Athen;5;geographie,europa,staedte;auto;2026-11-10
+85;Hauptstadt Polens;Warschau;8;geographie,europa,staedte;auto;2026-11-10
+86;Hauptstadt Ungarns;Budapest;8;geographie,europa,staedte;auto;2026-11-10
+87;Hauptstadt Irlands;Dublin;6;geographie,europa,staedte;auto;2026-11-10
+88;Hauptstadt Lettlands;Riga;4;geographie,europa,staedte;auto;2026-11-10
+89;Hauptstadt Perus;Lima;4;geographie,suedamerika,staedte;auto;2026-11-10
+90;Hauptstadt Japans;Tokio;5;geographie,asien,staedte;auto;2026-11-10
+91;Hauptstadt Ägyptens;Kairo;5;geographie,afrika,staedte;auto;2026-11-10
+92;Hauptstadt Kenias;Nairobi;7;geographie,afrika,staedte;auto;2026-11-10
+93;Hauptstadt Kubas;Havanna;7;geographie,staedte;auto;2026-11-10
+94;Hauptstadt der Schweiz;Bern;4;geographie,europa,staedte;auto;2026-11-10
+95;Hauptstadt Russlands;Moskau;6;geographie,europa,staedte;auto;2026-11-10
+96;Hauptstadt Finnlands;Helsinki;8;geographie,europa,staedte;auto;2026-11-10
+97;Hauptstadt Schwedens;Stockholm;9;geographie,europa,staedte;auto;2026-11-10
+98;Hauptstadt Dänemarks;Kopenhagen;10;geographie,europa,staedte;auto;2026-11-10
+99;Hauptstadt Belgiens;Brüssel;8;geographie,europa,staedte;auto;2026-11-10
+100;Hauptstadt der Türkei;Ankara;6;geographie,asien,staedte;auto;2026-11-10
+101;Hauptstadt Chinas;Peking;6;geographie,asien,staedte;auto;2026-11-10
+102;Hauptstadt Kanadas;Ottawa;6;geographie,staedte;auto;2026-11-10
+103;Hauptstadt Australiens;Canberra;8;geographie,australien,staedte;auto;2026-11-10
+104;Hauptstadt Chiles;Santiago;8;geographie,suedamerika,staedte;auto;2026-11-10
+105;Hauptstadt der Niederlande;Amsterdam;9;geographie,europa,staedte;auto;2026-11-10
+106;Hauptstadt Bayerns;München;8;geographie,deutschland,staedte;auto;2026-11-10
+107;Hansestadt an der Elbe;Hamburg;7;geographie,deutschland,staedte;auto;2026-11-10
+108;Domstadt am Rhein;Köln;5;geographie,deutschland,staedte;auto;2026-11-10
+109;Hauptstadt Sachsens;Dresden;7;geographie,deutschland,staedte;auto;2026-11-10
+110;Hauptstadt Hessens;Wiesbaden;9;geographie,deutschland,staedte;auto;2026-11-10
+111;Bundeshauptstadt;Berlin;6;geographie,deutschland,staedte;auto;2026-11-10
+112;Stadt der Stadtmusikanten;Bremen;6;geographie,deutschland,staedte,maerchen;auto;2026-11-10
+113;Messestadt in Sachsen;Leipzig;7;geographie,deutschland,staedte;auto;2026-11-10
+114;Hauptstadt Niedersachsens;Hannover;8;geographie,deutschland,staedte;auto;2026-11-10
+115;Hauptstadt Nordrhein-Westfalens;Düsseldorf;11;geographie,deutschland,staedte;auto;2026-11-10
+116;Strom durch Köln;Rhein;5;geographie,fluesse,deutschland;auto;2026-11-10
+117;Fluss durch Wien;Donau;5;geographie,fluesse,europa;auto;2026-11-10
+118;Fluss durch Hamburg;Elbe;4;geographie,fluesse,deutschland;auto;2026-11-10
+119;Fluss durch Paris;Seine;5;geographie,fluesse,europa;auto;2026-11-10
+120;Fluss durch London;Themse;6;geographie,fluesse,europa;auto;2026-11-10
+121;Fluss durch Rom;Tiber;5;geographie,fluesse,europa;auto;2026-11-10
+122;Fluss durch Bremen;Weser;5;geographie,fluesse,deutschland;auto;2026-11-10
+123;Längster Fluss Afrikas;Nil;3;geographie,fluesse,afrika,kurzwort;auto;2026-11-10
+124;Strom in Südamerika;Amazonas;8;geographie,fluesse,suedamerika;auto;2026-11-10
+125;Fluss durch Florenz;Arno;4;geographie,fluesse,europa;auto;2026-11-10
+126;Fluss durch Frankfurt;Main;4;geographie,fluesse,deutschland;auto;2026-11-10
+127;Fluss durch Berlin;Spree;5;geographie,fluesse,deutschland;auto;2026-11-10
+128;Fluss durch Prag;Moldau;6;geographie,fluesse,europa;auto;2026-11-10
+129;Mündet bei Passau in die Donau;Inn;3;geographie,fluesse,deutschland,kurzwort;auto;2026-11-10
+130;Längster Fluss Europas;Wolga;5;geographie,fluesse,europa;auto;2026-11-10
+131;Höchster Berg der Erde;Everest;7;geographie,berge,asien;auto;2026-11-10
+132;Höchster Berg Deutschlands;Zugspitze;9;geographie,berge,deutschland;auto;2026-11-10
+133;Schweizer Berg mit Nordwand;Eiger;5;geographie,berge,europa;auto;2026-11-10
+134;Hochgebirge in Europa;Alpen;5;geographie,berge,europa;auto;2026-11-10
+135;Gebirge in Südamerika;Anden;5;geographie,berge,suedamerika;auto;2026-11-10
+136;Grenzgebirge Europa-Asien;Ural;4;geographie,berge,europa;auto;2026-11-10
+137;Höchster Berg im Harz;Brocken;7;geographie,berge,deutschland;auto;2026-11-10
+138;Vulkan auf Sizilien;Ätna;5;geographie,berge,europa;auto;2026-11-10
+139;See an der Grenze zur Schweiz;Bodensee;8;geographie,deutschland;auto;2026-11-10
+140;Größte Insel Deutschlands;Rügen;6;geographie,inseln,deutschland;auto;2026-11-10
+141;Nordfriesische Insel;Sylt;4;geographie,inseln,deutschland;auto;2026-11-10
+142;Nordfriesische Insel;Föhr;5;geographie,inseln,deutschland;auto;2026-11-10
+143;Ostfriesische Insel;Juist;5;geographie,inseln,deutschland;auto;2026-11-10
+144;Ostfriesische Insel;Borkum;6;geographie,inseln,deutschland;auto;2026-11-10
+145;Geburtsinsel Napoleons;Korsika;7;geographie,inseln,europa;auto;2026-11-10
+146;Größte Insel der Welt;Grönland;9;geographie,inseln;auto;2026-11-10
+147;Insel Indonesiens;Bali;4;geographie,inseln,asien;auto;2026-11-10
+148;Größte griechische Insel;Kreta;5;geographie,inseln,europa;auto;2026-11-10
+149;Inselstaat im Mittelmeer;Malta;5;geographie,inseln,europa;auto;2026-11-10
+150;Größter Kontinent;Asien;5;geographie;auto;2026-11-10
+151;Kontinent der Kängurus;Australien;10;geographie,australien;auto;2026-11-10
+152;Eiskontinent;Antarktis;9;geographie;auto;2026-11-10
+153;Kontinent mit der Sahara;Afrika;6;geographie,afrika;auto;2026-11-10
+154;Unser Kontinent;Europa;6;geographie,europa;auto;2026-11-10
+155;Wüste in Nordafrika;Sahara;6;geographie,afrika,wueste;auto;2026-11-10
+156;Wüste in Asien;Gobi;4;geographie,asien,wueste;auto;2026-11-10
+157;Meer zwischen Europa und Afrika;Mittelmeer;10;geographie,meer;auto;2026-11-10
+158;Meer vor Sylt;Nordsee;7;geographie,meer,deutschland;auto;2026-11-10
+159;Meer vor Rügen;Ostsee;6;geographie,meer,deutschland;auto;2026-11-10
+160;Größter Ozean;Pazifik;7;geographie,meer;auto;2026-11-10
+161;Ozean zw. Europa und Amerika;Atlantik;8;geographie,meer;auto;2026-11-10
+162;Andenstaat;Peru;4;geographie,suedamerika;auto;2026-11-10
+163;Staat am Persischen Golf;Iran;4;geographie,asien;auto;2026-11-10
+164;Land der Pharaonen;Ägypten;8;geographie,afrika,geschichte;auto;2026-11-10
+165;Land der Fjorde;Norwegen;8;geographie,europa;auto;2026-11-10
+166;Alpenrepublik;Österreich;11;geographie,europa;auto;2026-11-10
+167;Land der tausend Seen;Finnland;8;geographie,europa;auto;2026-11-10
+168;Inselstaat in Ostasien;Japan;5;geographie,asien;auto;2026-11-10
+169;Stiefelförmiges Land;Italien;7;geographie,europa;auto;2026-11-10
+170;Land der Tulpen;Holland;7;geographie,europa;auto;2026-11-10
+171;Zwergstaat in den Pyrenäen;Andorra;7;geographie,europa;auto;2026-11-10
+172;Land in Ostafrika;Kenia;5;geographie,afrika;auto;2026-11-10
+173;Land am Himalaja;Nepal;5;geographie,asien;auto;2026-11-10
+174;Karibischer Inselstaat;Kuba;4;geographie,inseln;auto;2026-11-10
+175;Größter US-Bundesstaat;Alaska;6;geographie,usa;auto;2026-11-10
+176;US-Bundesstaat mit Austin;Texas;5;geographie,usa;auto;2026-11-10
+177;Laubbaum;Eiche;5;natur,pflanzen,wald;auto;2026-11-10
+178;Nadelbaum;Tanne;5;natur,pflanzen,wald;auto;2026-11-10
+179;Baum mit weißer Rinde;Birke;5;natur,pflanzen,wald;auto;2026-11-10
+180;Baum mit Sirup;Ahorn;5;natur,pflanzen,wald;auto;2026-11-10
+181;Ulmen-Baum;Ulme;4;natur,pflanzen,wald;auto;2026-11-10
+182;Frucht der Eiche;Eichel;6;natur,pflanzen,wald;auto;2026-11-10
+183;Zwiebelblume;Tulpe;5;natur,pflanzen,blumen;auto;2026-11-10
+184;Königin der Blumen;Rose;4;natur,pflanzen,blumen;auto;2026-11-10
+185;Kletterpflanze an Mauern;Efeu;4;natur,pflanzen;auto;2026-11-10
+186;Heilpflanze für Tee;Kamille;7;natur,pflanzen,blumen;auto;2026-11-10
+187;Pusteblume;Löwenzahn;10;natur,pflanzen,blumen;auto;2026-11-10
+188;Herbstblume;Aster;5;natur,pflanzen,blumen;auto;2026-11-10
+189;Teil des Baumes;Ast;3;natur,pflanzen,kurzwort;auto;2026-11-10
+190;Baumteil unter der Erde;Wurzel;6;natur,pflanzen;auto;2026-11-10
+191;Teil der Pflanze;Blüte;6;natur,pflanzen,blumen;auto;2026-11-10
+192;Brotgetreide;Weizen;6;natur,essen,getreide;auto;2026-11-10
+193;Dunkles Brotgetreide;Roggen;6;natur,essen,getreide;auto;2026-11-10
+194;Getreide für Bier;Gerste;6;natur,essen,getreide;auto;2026-11-10
+195;Pferdefutter-Getreide;Hafer;5;natur,essen,getreide;auto;2026-11-10
+196;Asiatisches Grundnahrungsmittel;Reis;4;essen,getreide,asien;auto;2026-11-10
+197;Leuchtgas;Neon;4;wissenschaft,chemie;auto;2026-11-10
+198;Edelmetall, Au;Gold;4;wissenschaft,chemie;auto;2026-11-10
+199;Metall, Fe;Eisen;5;wissenschaft,chemie;auto;2026-11-10
+200;Edelmetall, Ag;Silber;6;wissenschaft,chemie;auto;2026-11-10
+201;Metall, Cu;Kupfer;6;wissenschaft,chemie;auto;2026-11-10
+202;Metall, Sn;Zinn;4;wissenschaft,chemie;auto;2026-11-10
+203;Schwermetall, Pb;Blei;4;wissenschaft,chemie;auto;2026-11-10
+204;Leichtestes Element;Wasserstoff;11;wissenschaft,chemie;auto;2026-11-10
+205;Lebenswichtiges Gas;Sauerstoff;10;wissenschaft,chemie;auto;2026-11-10
+206;Ballongas;Helium;6;wissenschaft,chemie;auto;2026-11-10
+207;Edelgas, Ar;Argon;5;wissenschaft,chemie;auto;2026-11-10
+208;Roter Planet;Mars;4;wissenschaft,astronomie;auto;2026-11-10
+209;Größter Planet;Jupiter;7;wissenschaft,astronomie;auto;2026-11-10
+210;Ringplanet;Saturn;6;wissenschaft,astronomie;auto;2026-11-10
+211;Morgenstern;Venus;5;wissenschaft,astronomie;auto;2026-11-10
+212;Innerster Planet;Merkur;6;wissenschaft,astronomie;auto;2026-11-10
+213;Unser Planet;Erde;4;wissenschaft,astronomie;auto;2026-11-10
+214;Erdtrabant;Mond;4;wissenschaft,astronomie;auto;2026-11-10
+215;Zentralgestirn;Sonne;5;wissenschaft,astronomie;auto;2026-11-10
+216;Schweifstern;Komet;5;wissenschaft,astronomie;auto;2026-11-10
+217;Sternbild, Himmelsjäger;Orion;5;wissenschaft,astronomie;auto;2026-11-10
+218;Richtung des Sonnen|aufgangs;Osten;5;allgemein;auto;2026-11-10
+219;Gegenteil von Osten;Westen;6;allgemein;auto;2026-11-10
+220;Himmelsrichtung, Mittag;Süden;6;allgemein;auto;2026-11-10
+221;Himmelsrichtung, Polarstern;Norden;6;allgemein;auto;2026-11-10
+222;Warme Jahreszeit;Sommer;6;natur,wetter;auto;2026-11-10
+223;Kalte Jahreszeit;Winter;6;natur,wetter;auto;2026-11-10
+224;Erntezeit;Herbst;6;natur,wetter;auto;2026-11-10
+225;Gefrorenes Wasser;Eis;3;natur,wetter,kurzwort;auto;2026-11-10
+226;Niederschlag;Regen;5;natur,wetter;auto;2026-11-10
+227;Weißer Niederschlag;Schnee;6;natur,wetter;auto;2026-11-10
+228;Heftiger Wind;Sturm;5;natur,wetter;auto;2026-11-10
+229;Wirbelsturm;Tornado;7;natur,wetter;auto;2026-11-10
+230;Gewitterlicht;Blitz;5;natur,wetter;auto;2026-11-10
+231;Morgenfeuchte auf dem Gras;Tau;3;natur,wetter,kurzwort;auto;2026-11-10
+232;Bunter Bogen am Himmel;Regenbogen;10;natur,wetter;auto;2026-11-10
+233;Roter Edelstein;Rubin;5;natur,edelsteine;auto;2026-11-10
+234;Grüner Edelstein;Smaragd;7;natur,edelsteine;auto;2026-11-10
+235;Härtester Edelstein;Diamant;7;natur,edelsteine;auto;2026-11-10
+236;Blauer Edelstein;Saphir;6;natur,edelsteine;auto;2026-11-10
+237;Fossiles Harz;Bernstein;9;natur,edelsteine;auto;2026-11-10
+238;Kleines Fließgewässer;Bach;4;natur;auto;2026-11-10
+239;Kleiner Teich;Weiher;6;natur;auto;2026-11-10
+240;Stehendes Gewässer;See;3;natur,kurzwort;auto;2026-11-10
+241;Mündungsgebiet;Delta;5;natur,geographie;auto;2026-11-10
+242;Bergweide;Alm;3;natur,berge,kurzwort;auto;2026-11-10
+243;Italienischer Teigfladen;Pizza;5;essen,italien;auto;2026-11-10
+244;Italienische Nudeln;Pasta;5;essen,italien;auto;2026-11-10
+245;Bayerisches Laugengebäck;Brezel;6;essen,deutschland;auto;2026-11-10
+246;Gouda oder Emmentaler;Käse;5;essen;auto;2026-11-10
+247;Brotaufstrich aus Sahne;Butter;6;essen;auto;2026-11-10
+248;Süßes von der Biene;Honig;5;essen;auto;2026-11-10
+249;Getränk aus Bohnen;Kaffee;6;essen,getraenke;auto;2026-11-10
+250;Heißgetränk aus Blättern;Tee;3;essen,getraenke,kurzwort;auto;2026-11-10
+251;Gerstensaft;Bier;4;essen,getraenke;auto;2026-11-10
+252;Rebensaft;Wein;4;essen,getraenke;auto;2026-11-10
+253;Schaumwein;Sekt;4;essen,getraenke;auto;2026-11-10
+254;Weißes Würzmittel;Salz;4;essen;auto;2026-11-10
+255;Scharfes Gewürz;Pfeffer;7;essen;auto;2026-11-10
+256;Erdapfel;Kartoffel;9;essen,gemuese;auto;2026-11-10
+257;Orange Rübe;Möhre;6;essen,gemuese;auto;2026-11-10
+258;Tränentreiber in der Küche;Zwiebel;7;essen,gemuese;auto;2026-11-10
+259;Grüne Hülsenfrucht;Erbse;5;essen,gemuese;auto;2026-11-10
+260;Kleine Hülsenfrucht;Linse;5;essen,gemuese;auto;2026-11-10
+261;Grundlage für Sauerkraut;Kohl;4;essen,gemuese;auto;2026-11-10
+262;Rotes Fruchtgemüse;Tomate;6;essen,gemuese;auto;2026-11-10
+263;Grünes Salatgemüse;Gurke;5;essen,gemuese;auto;2026-11-10
+264;Scharfe Wurzel;Rettich;7;essen,gemuese;auto;2026-11-10
+265;Kernobst;Apfel;5;essen,obst;auto;2026-11-10
+266;Gelbe Südfrucht;Banane;6;essen,obst;auto;2026-11-10
+267;Saure Zitrusfrucht;Zitrone;7;essen,obst;auto;2026-11-10
+268;Rotes Steinobst;Kirsche;7;essen,obst;auto;2026-11-10
+269;Rote Sommerfrucht;Erdbeere;8;essen,obst;auto;2026-11-10
+270;Weinfrucht;Traube;6;essen,obst;auto;2026-11-10
+271;Tropische Frucht mit Krone;Ananas;6;essen,obst;auto;2026-11-10
+272;Flaumige Steinfrucht;Pfirsich;8;essen,obst;auto;2026-11-10
+273;Kleine grüne Zitrusfrucht;Limette;7;essen,obst;auto;2026-11-10
+274;Schokoladengetränk;Kakao;5;essen,getraenke;auto;2026-11-10
+275;Gebäck zum Geburtstag;Kuchen;6;essen;auto;2026-11-10
+276;Frühstücksflocken;Müsli;6;essen;auto;2026-11-10
+277;Eierspeise;Omelett;7;essen;auto;2026-11-10
+278;Spanische Reispfanne;Paella;6;essen,spanien;auto;2026-11-10
+279;Japanisches Reisgericht;Sushi;5;essen,asien;auto;2026-11-10
+280;Mexikanischer Maisfladen;Taco;4;essen;auto;2026-11-10
+281;Grillwurst;Bratwurst;9;essen,deutschland;auto;2026-11-10
+282;Schweizer Kartoffelgericht;Rösti;6;essen;auto;2026-11-10
+283;Paniertes Fleisch;Schnitzel;9;essen;auto;2026-11-10
+284;Süßes Kaltgetränk;Limonade;8;essen,getraenke;auto;2026-11-10
+285;Weißes Getränk;Milch;5;essen,getraenke;auto;2026-11-10
+286;Süßungsmittel;Zucker;6;essen;auto;2026-11-10
+287;Teigware;Nudel;5;essen;auto;2026-11-10
+288;Kleines Brot;Brötchen;9;essen;auto;2026-11-10
+289;Speisepilz;Champignon;10;essen,natur;auto;2026-11-10
+290;Nuss vom Strauch;Haselnuss;9;essen,natur;auto;2026-11-10
+291;Tropische Nuss;Kokosnuss;9;essen,natur;auto;2026-11-10
+292;Pizzagewürz;Oregano;7;essen,kraeuter;auto;2026-11-10
+293;Kraut für Pesto;Basilikum;9;essen,kraeuter;auto;2026-11-10
+294;Flüssiges Fett;Öl;3;essen,kurzwort;auto;2026-11-10
+295;Beliebteste Sportart;Fußball;8;sport;auto;2026-11-10
+296;Rückschlagspiel;Tennis;6;sport;auto;2026-11-10
+297;Ballspiel mit Korb;Basketball;10;sport;auto;2026-11-10
+298;Ballspiel am Netz;Volleyball;10;sport;auto;2026-11-10
+299;Sport im Becken;Schwimmen;9;sport;auto;2026-11-10
+300;Wintersportgerät;Ski;3;sport,winter,kurzwort;auto;2026-11-10
+301;Japanischer Kampfsport;Judo;4;sport,asien;auto;2026-11-10
+302;Koreanischer Kampfsport;Taekwondo;9;sport,asien;auto;2026-11-10
+303;Spiel mit Puck;Eishockey;9;sport,winter;auto;2026-11-10
+304;Wurfsport mit Pfeilen;Darts;5;sport;auto;2026-11-10
+305;Brettspiel der Denker;Schach;6;sport,spiele;auto;2026-11-10
+306;Schachfigur, Pferd;Springer;8;sport,spiele;auto;2026-11-10
+307;Wichtigste Schachfigur;König;6;sport,spiele;auto;2026-11-10
+308;Stärkste Schachfigur;Dame;4;sport,spiele;auto;2026-11-10
+309;Schachfigur, Burg;Turm;4;sport,spiele;auto;2026-11-10
+310;Paddelboot;Kanu;4;sport;auto;2026-11-10
+311;Lauf über 42 Kilometer;Marathon;8;sport;auto;2026-11-10
+312;Sport auf dem Grün;Golf;4;sport;auto;2026-11-10
+313;Gewinn im Wettkampf;Sieg;4;sport;auto;2026-11-10
+314;Pferdesport;Reiten;6;sport;auto;2026-11-10
+315;Radrennen in Frankreich;Tour;4;sport;auto;2026-11-10
+316;Abschnitt im Boxkampf;Runde;5;sport;auto;2026-11-10
+317;Abschnitt im Eishockey;Drittel;7;sport;auto;2026-11-10
+318;Kurz für Schiedsrichter;Schiri;6;sport;auto;2026-11-10
+319;Mannschaft;Team;4;sport;auto;2026-11-10
+320;Kugelspiel auf grünem Tuch;Billard;7;sport,spiele;auto;2026-11-10
+321;Lenkbarer Rennschlitten;Bob;3;sport,winter,kurzwort;auto;2026-11-10
+322;Tasteninstrument;Klavier;7;musik,instrumente;auto;2026-11-10
+323;Streichinstrument;Geige;5;musik,instrumente;auto;2026-11-10
+324;Zupfinstrument;Gitarre;7;musik,instrumente;auto;2026-11-10
+325;Blechblasinstrument;Trompete;8;musik,instrumente;auto;2026-11-10
+326;Holzblasinstrument;Flöte;6;musik,instrumente;auto;2026-11-10
+327;Großes Streichinstrument;Cello;5;musik,instrumente;auto;2026-11-10
+328;Schlaginstrument;Trommel;7;musik,instrumente;auto;2026-11-10
+329;Bühnenwerk mit Gesang;Oper;4;musik,kultur;auto;2026-11-10
+330;Musikgruppe;Band;4;musik;auto;2026-11-10
+331;Gesangsstück;Lied;4;musik;auto;2026-11-10
+332;Werk für Orchester;Sinfonie;8;musik;auto;2026-11-10
+333;Hohe Frauenstimme;Sopran;6;musik;auto;2026-11-10
+334;Tiefe Männerstimme;Bass;4;musik;auto;2026-11-10
+335;Tiefe Frauenstimme;Alt;3;musik,kurzwort;auto;2026-11-10
+336;Komponist der Mondscheinsonate;Beethoven;9;musik,personen;auto;2026-11-10
+337;Komponist der Zauberflöte;Mozart;6;musik,personen;auto;2026-11-10
+338;Thomaskantor in Leipzig;Bach;4;musik,personen;auto;2026-11-10
+339;Walzerkönig;Strauss;7;musik,personen;auto;2026-11-10
+340;Komponist des Ring-Zyklus;Wagner;6;musik,personen;auto;2026-11-10
+341;Dichter des Faust;Goethe;6;literatur,personen;auto;2026-11-10
+342;Dichter der Räuber;Schiller;8;literatur,personen;auto;2026-11-10
+343;Märchensammler-Brüder;Grimm;5;literatur,maerchen,personen;auto;2026-11-10
+344;Märchenfigur mit sieben Zwergen;Schneewittchen;14;literatur,maerchen;auto;2026-11-10
+345;Märchenfigur mit roter Kappe;Rotkäppchen;12;literatur,maerchen;auto;2026-11-10
+346;Maler der Mona Lisa;Leonardo;8;kunst,personen;auto;2026-11-10
+347;Maler von Guernica;Picasso;7;kunst,personen;auto;2026-11-10
+348;Maler der Sonnenblumen;Van Gogh;7;kunst,personen;auto;2026-11-10
+349;Bildhauer des Denkers;Rodin;5;kunst,personen;auto;2026-11-10
+350;Museum in Paris;Louvre;6;kunst,kultur;auto;2026-11-10
+351;Schauspiel;Drama;5;literatur,kultur;auto;2026-11-10
+352;Lustiges Bühnenstück;Komödie;8;literatur,kultur;auto;2026-11-10
+353;Gedicht mit 14 Zeilen;Sonett;6;literatur;auto;2026-11-10
+354;Japanisches Kurzgedicht;Haiku;5;literatur,asien;auto;2026-11-10
+355;Fabeltier mit Horn;Einhorn;7;maerchen,mythologie;auto;2026-11-10
+356;Feuerspeiendes Fabelwesen;Drache;6;maerchen,mythologie;auto;2026-11-10
+357;Germanischer Donnergott;Thor;4;mythologie;auto;2026-11-10
+358;Germanischer Göttervater;Odin;4;mythologie;auto;2026-11-10
+359;Griechischer Göttervater;Zeus;4;mythologie;auto;2026-11-10
+360;Römischer Kriegsgott;Mars;4;mythologie;auto;2026-11-10
+361;Römische Liebesgöttin;Venus;5;mythologie;auto;2026-11-10
+362;Held der Irrfahrt;Odysseus;8;mythologie,literatur;auto;2026-11-10
+363;Held mit verwundbarer Ferse;Achilles;8;mythologie;auto;2026-11-10
+364;Halbgott mit zwölf Aufgaben;Herakles;8;mythologie;auto;2026-11-10
+365;Eroberer Galliens;Caesar;6;geschichte,personen;auto;2026-11-10
+366;Französischer Kaiser;Napoleon;8;geschichte,personen;auto;2026-11-10
+367;Eiserner Kanzler;Bismarck;8;geschichte,personen;auto;2026-11-10
+368;Entdecker Amerikas 1492;Kolumbus;8;geschichte,personen;auto;2026-11-10
+369;Ägyptischer Herrscher;Pharao;6;geschichte,afrika;auto;2026-11-10
+370;Ägyptische Königin;Kleopatra;9;geschichte,personen;auto;2026-11-10
+371;Grabmal der Pharaonen;Pyramide;8;geschichte,afrika;auto;2026-11-10
+372;Nordische Seefahrer;Wikinger;8;geschichte;auto;2026-11-10
+373;Mittelalterlicher Krieger;Ritter;6;geschichte;auto;2026-11-10
+374;Wohnsitz des Ritters;Burg;4;geschichte;auto;2026-11-10
+375;Reformator mit 95 Thesen;Luther;6;geschichte,personen;auto;2026-11-10
+376;Karl der Große war ihr König;Franken;7;geschichte;auto;2026-11-10
+377;Stadt am Vesuv, verschüttet;Pompeji;7;geschichte,europa;auto;2026-11-10
+378;Römische Kampfstätte;Arena;5;geschichte;auto;2026-11-10
+379;Kämpfer im alten Rom;Gladiator;9;geschichte;auto;2026-11-10
+380;Altes Reich in Peru;Inka;4;geschichte,suedamerika;auto;2026-11-10
+381;Altes Volk in Mexiko;Azteken;7;geschichte;auto;2026-11-10
+382;Fahrzeug mit vier Rädern;Auto;4;technik,verkehr;auto;2026-11-10
+383;Zweirad;Fahrrad;7;technik,verkehr;auto;2026-11-10
+384;Schienenfahrzeug;Zug;3;technik,verkehr,kurzwort;auto;2026-11-10
+385;Großes Wasserfahrzeug;Schiff;6;technik,verkehr;auto;2026-11-10
+386;Luftfahrzeug;Flugzeug;8;technik,verkehr;auto;2026-11-10
+387;Fahrzeug auf dem Acker;Traktor;7;technik,bauernhof;auto;2026-11-10
+388;Ackergerät;Egge;4;technik,bauernhof;auto;2026-11-10
+389;Rechenmaschine;Computer;8;technik;auto;2026-11-10
+390;Mobiltelefon;Handy;5;technik;auto;2026-11-10
+391;Weltweites Datennetz;Internet;8;technik;auto;2026-11-10
+392;Elektronische Post;E-Mail;5;technik;auto;2026-11-10
+393;Bildschirm;Monitor;7;technik;auto;2026-11-10
+394;Werkzeug zum Nageln;Hammer;6;technik,werkzeug;auto;2026-11-10
+395;Werkzeug mit Zähnen;Säge;5;technik,werkzeug;auto;2026-11-10
+396;Lichtquelle;Lampe;5;alltag;auto;2026-11-10
+397;Kerzenmaterial;Wachs;5;alltag;auto;2026-11-10
+398;Zeitmesser;Uhr;3;alltag,kurzwort;auto;2026-11-10
+399;Schreibgerät;Stift;5;alltag;auto;2026-11-10
+400;Gedrucktes Werk;Buch;4;alltag,literatur;auto;2026-11-10
+401;Sitzmöbel;Stuhl;5;alltag,wohnen;auto;2026-11-10
+402;Schlafmöbel;Bett;4;alltag,wohnen;auto;2026-11-10
+403;Esstisch;Tisch;5;alltag,wohnen;auto;2026-11-10
+404;Kleidermöbel;Schrank;7;alltag,wohnen;auto;2026-11-10
+405;Oberer Abschluss des Hauses;Dach;4;alltag,wohnen;auto;2026-11-10
+406;Eingang ins Haus;Tür;4;alltag,wohnen;auto;2026-11-10
+407;Glasöffnung in der Wand;Fenster;7;alltag,wohnen;auto;2026-11-10
+408;Raum zum Kochen;Küche;6;alltag,wohnen;auto;2026-11-10
+409;Raum zum Waschen;Bad;3;alltag,wohnen,kurzwort;auto;2026-11-10
+410;Geldinstitut;Bank;4;alltag,geld;auto;2026-11-10
+411;Europäische Währung;Euro;4;geld;auto;2026-11-10
+412;Frühere deutsche Währung;Mark;4;geld,geschichte;auto;2026-11-10
+413;Japanische Währung;Yen;3;geld,asien,kurzwort;auto;2026-11-10
+414;Britische Währung;Pfund;5;geld,europa;auto;2026-11-10
+415;US-Währung;Dollar;6;geld,usa;auto;2026-11-10
+416;Schweizer Währung;Franken;7;geld,europa;auto;2026-11-10
+417;Zahlungsmittel;Geld;4;geld;auto;2026-11-10
+418;Erster Werktag;Montag;6;zeit;auto;2026-11-10
+419;Letzter Tag der Woche;Sonntag;7;zeit;auto;2026-11-10
+420;Mitte der Woche;Mittwoch;8;zeit;auto;2026-11-10
+421;Erster Monat;Januar;6;zeit;auto;2026-11-10
+422;Wonnemonat;Mai;3;zeit,kurzwort;auto;2026-11-10
+423;Letzter Monat;Dezember;8;zeit;auto;2026-11-10
+424;Launischer Monat;April;5;zeit;auto;2026-11-10
+425;365 Tage;Jahr;4;zeit;auto;2026-11-10
+426;60 Minuten;Stunde;6;zeit;auto;2026-11-10
+427;Sieben Tage;Woche;5;zeit;auto;2026-11-10
+428;Zehn Jahre;Jahrzehnt;9;zeit;auto;2026-11-10
+429;Zwölf Stück;Dutzend;7;zahlen;auto;2026-11-10
+430;Glückszahl;Sieben;6;zahlen;auto;2026-11-10
+431;Zahl nach neun;Zehn;4;zahlen;auto;2026-11-10
+432;Zahl ohne Wert;Null;4;zahlen;auto;2026-11-10
+433;Kleinste natürliche Zahl;Eins;4;zahlen;auto;2026-11-10
+434;Oberer Körperteil;Kopf;4;koerper;auto;2026-11-10
+435;Sehorgan;Auge;4;koerper;auto;2026-11-10
+436;Hörorgan;Ohr;3;koerper,kurzwort;auto;2026-11-10
+437;Riechorgan;Nase;4;koerper;auto;2026-11-10
+438;Greiforgan;Hand;4;koerper;auto;2026-11-10
+439;Pumpe im Körper;Herz;4;koerper;auto;2026-11-10
+440;Atmungsorgan;Lunge;5;koerper;auto;2026-11-10
+441;Gelenk im Bein;Knie;4;koerper;auto;2026-11-10
+442;Glied am Fuß;Zeh;3;koerper,kurzwort;auto;2026-11-10
+443;Geschmacksorgan;Zunge;5;koerper;auto;2026-11-10
+444;Haare am Kinn;Bart;4;koerper;auto;2026-11-10
+445;Farbe der Liebe;Rot;3;farben,kurzwort;auto;2026-11-10
+446;Farbe des Himmels;Blau;4;farben;auto;2026-11-10
+447;Farbe des Grases;Grün;5;farben;auto;2026-11-10
+448;Farbe der Zitrone;Gelb;4;farben;auto;2026-11-10
+449;Farbe der Trauer;Schwarz;7;farben;auto;2026-11-10
+450;Farbe der Unschuld;Weiß;5;farben;auto;2026-11-10
+451;Mischung aus Rot und Blau;Lila;4;farben;auto;2026-11-10
+452;Mutter der Mutter;Oma;3;familie,kurzwort;auto;2026-11-10
+453;Vater des Vaters;Opa;3;familie,kurzwort;auto;2026-11-10
+454;Männliches Geschwister;Bruder;6;familie;auto;2026-11-10
+455;Weibliches Geschwister;Schwester;9;familie;auto;2026-11-10
+456;Sohn des Bruders;Neffe;5;familie;auto;2026-11-10
+457;Tochter der Schwester;Nichte;6;familie;auto;2026-11-10
+458;Bruder der Mutter;Onkel;5;familie;auto;2026-11-10
+459;Schwester des Vaters;Tante;5;familie;auto;2026-11-10
+460;Schiffsführer;Kapitän;8;berufe;auto;2026-11-10
+461;Heilberuf;Arzt;4;berufe;auto;2026-11-10
+462;Backt Brot;Bäcker;7;berufe;auto;2026-11-10
+463;Schneidet Haare;Friseur;7;berufe;auto;2026-11-10
+464;Unterrichtet an der Schule;Lehrer;6;berufe;auto;2026-11-10
+465;Arbeitet mit Pinsel;Maler;5;berufe;auto;2026-11-10
+466;Baut Mauern;Maurer;6;berufe;auto;2026-11-10
+467;Hütet Schafe;Schäfer;8;berufe;auto;2026-11-10
+468;Arbeitet mit Holz;Tischler;8;berufe;auto;2026-11-10
+469;Bringt die Briefe;Postbote;8;berufe;auto;2026-11-10
+470;Sprache der Römer;Latein;6;sprache;auto;2026-11-10
+471;Weltsprache;Englisch;8;sprache;auto;2026-11-10
+472;Gegenteil von alt;Neu;3;sprache,kurzwort;auto;2026-11-10
+473;Gegenteil von groß;Klein;5;sprache;auto;2026-11-10
+474;Gegenteil von kalt;Warm;4;sprache;auto;2026-11-10
+475;Gegenteil von hell;Dunkel;6;sprache;auto;2026-11-10
+476;Gegenteil von schnell;Langsam;7;sprache;auto;2026-11-10
+477;Laut des Esels;Iah;3;tiere,sprache,kurzwort;auto;2026-11-10
+478;Persönliches Fürwort;Er;2;sprache,kurzwort;auto;2026-11-10
+479;Persönliches Fürwort;Es;2;sprache,kurzwort;auto;2026-11-10
+480;Persönliches Fürwort;Du;2;sprache,kurzwort;auto;2026-11-10
+481;Persönliches Fürwort;Ich;3;sprache,kurzwort;auto;2026-11-10
+482;Persönliches Fürwort;Wir;3;sprache,kurzwort;auto;2026-11-10
+483;Persönliches Fürwort;Ihr;3;sprache,kurzwort;auto;2026-11-10
+484;Persönliches Fürwort;Sie;3;sprache,kurzwort;auto;2026-11-10
+485;Besitzanzeigendes Fürwort;Mein;4;sprache,kurzwort;auto;2026-11-10
+486;Besitzanzeigendes Fürwort;Dein;4;sprache,kurzwort;auto;2026-11-10
+487;Besitzanzeigendes Fürwort;Sein;4;sprache,kurzwort;auto;2026-11-10
+488;Verhältniswort;An;2;sprache,kurzwort;auto;2026-11-10
+489;Verhältniswort;In;2;sprache,kurzwort;auto;2026-11-10
+490;Verhältniswort;Zu;2;sprache,kurzwort;auto;2026-11-10
+491;Verhältniswort;Ab;2;sprache,kurzwort;auto;2026-11-10
+492;Verhältniswort;Um;2;sprache,kurzwort;auto;2026-11-10
+493;Verhältniswort;Bei;3;sprache,kurzwort;auto;2026-11-10
+494;Verhältniswort;Mit;3;sprache,kurzwort;auto;2026-11-10
+495;Verhältniswort;Von;3;sprache,kurzwort;auto;2026-11-10
+496;Verhältniswort;Aus;3;sprache,kurzwort;auto;2026-11-10
+497;Verhältniswort;Nach;4;sprache,kurzwort;auto;2026-11-10
+498;Verhältniswort;Vor;3;sprache,kurzwort;auto;2026-11-10
+499;Ausruf des Staunens;Oh;2;sprache,kurzwort;auto;2026-11-10
+500;Ausruf der Erkenntnis;Aha;3;sprache,kurzwort;auto;2026-11-10
+501;Ausruf;Ah;2;sprache,kurzwort;auto;2026-11-10
+502;Ausruf;Na;2;sprache,kurzwort;auto;2026-11-10
+503;Ausruf des Ekels;Igitt;5;sprache,kurzwort;auto;2026-11-10
+504;Ausruf des Schmerzes;Aua;3;sprache,kurzwort;auto;2026-11-10
+505;Zustimmung;Ja;2;sprache,kurzwort;auto;2026-11-10
+506;Verneinung;Nein;4;sprache,kurzwort;auto;2026-11-10
+507;Nicht ein;Kein;4;sprache,kurzwort;auto;2026-11-10
+508;Bindewort;Und;3;sprache,kurzwort;auto;2026-11-10
+509;Bindewort;Oder;4;sprache,kurzwort;auto;2026-11-10
+510;Bindewort;Aber;4;sprache,kurzwort;auto;2026-11-10
+511;Bindewort;Als;3;sprache,kurzwort;auto;2026-11-10
+512;Bindewort;Wie;3;sprache,kurzwort;auto;2026-11-10
+513;Bindewort;Dass;4;sprache,kurzwort;auto;2026-11-10
+514;Bindewort;Ob;2;sprache,kurzwort;auto;2026-11-10
+515;Fragewort;Wer;3;sprache,kurzwort;auto;2026-11-10
+516;Fragewort;Was;3;sprache,kurzwort;auto;2026-11-10
+517;Fragewort;Wo;2;sprache,kurzwort;auto;2026-11-10
+518;Fragewort;Wann;4;sprache,kurzwort;auto;2026-11-10
+519;Fragewort;Warum;5;sprache,kurzwort;auto;2026-11-10
+520;Fragewort;Wie;3;sprache,kurzwort;auto;2026-11-10
+521;Bestimmter Artikel;Der;3;sprache,kurzwort;auto;2026-11-10
+522;Bestimmter Artikel;Die;3;sprache,kurzwort;auto;2026-11-10
+523;Bestimmter Artikel;Das;3;sprache,kurzwort;auto;2026-11-10
+524;Unbestimmter Artikel;Ein;3;sprache,kurzwort;auto;2026-11-10
+525;Unbestimmter Artikel;Eine;4;sprache,kurzwort;auto;2026-11-10
+526;Französischer Artikel;Le;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+527;Französischer Artikel;La;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+528;Französisch: ein;Un;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+529;Spanischer Artikel;El;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+530;Italienischer Artikel;Il;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+531;Englischer Artikel;The;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+532;Englisch: von;Of;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+533;Englisch: zu;To;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+534;Englisch: ist;Is;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+535;Englisch: nein;No;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+536;Englisch: wir;We;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+537;Englisch: er;He;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+538;Englisch: mich;Me;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+539;Englisch: oder;Or;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+540;Englisch: auf;On;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+541;Englisch: wenn;If;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+542;Englisch: es;It;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+543;Englisch: so;So;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+544;Englisch: uns;Us;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+545;Englisch: mein;My;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+546;Englisch: ja;Yes;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+547;Englisch: Ei;Egg;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+548;Englisch: alt;Old;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+549;Englisch: neu;New;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+550;Englisch: rot;Red;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+551;Englisch: Ende;End;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+552;Englisch: Ohr;Ear;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+553;Englisch: Auge;Eye;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+554;Englisch: Tee;Tea;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+555;Englisch: Meer;Sea;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+556;Englisch: Sonne;Sun;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+557;Französisch: und;Et;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+558;Französisch: ja;Oui;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+559;Französisch: Wasser;Eau;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+560;Französisch: König;Roi;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+561;Französisch: Meer;Mer;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+562;Französisch: gut;Bon;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+563;Französisch: Freund;Ami;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+564;Französisch: Insel;Ile;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+565;Italienisch: drei;Tre;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+566;Italienisch: Liebe;Amore;5;sprache,fremdsprachen;auto;2026-11-10
+567;Spanisch: ja;Si;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+568;Spanisch: Fluss;Rio;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+569;Spanisch: Sonne;Sol;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+570;Spanisch: Meer;Mar;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+571;Lateinisch: und;Et;2;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+572;Lateinisch: Kunst;Ars;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+573;Lateinisch: ich;Ego;3;sprache,kurzwort,fremdsprachen;auto;2026-11-10
+574;Tonsilbe;Do;2;musik,kurzwort;auto;2026-11-10
+575;Tonsilbe;Re;2;musik,kurzwort;auto;2026-11-10
+576;Tonsilbe;Mi;2;musik,kurzwort;auto;2026-11-10
+577;Tonsilbe;Fa;2;musik,kurzwort;auto;2026-11-10
+578;Tonsilbe;So;2;musik,kurzwort;auto;2026-11-10
+579;Tonsilbe;La;2;musik,kurzwort;auto;2026-11-10
+580;Tonsilbe;Ti;2;musik,kurzwort;auto;2026-11-10
+581;Chem. Zeichen für Eisen;Fe;2;chemie,kurzwort;auto;2026-11-10
+582;Chem. Zeichen für Gold;Au;2;chemie,kurzwort;auto;2026-11-10
+583;Chem. Zeichen für Silber;Ag;2;chemie,kurzwort;auto;2026-11-10
+584;Chem. Zeichen für Kupfer;Cu;2;chemie,kurzwort;auto;2026-11-10
+585;Chem. Zeichen für Zinn;Sn;2;chemie,kurzwort;auto;2026-11-10
+586;Chem. Zeichen für Blei;Pb;2;chemie,kurzwort;auto;2026-11-10
+587;Chem. Zeichen für Neon;Ne;2;chemie,kurzwort;auto;2026-11-10
+588;Chem. Zeichen für Helium;He;2;chemie,kurzwort;auto;2026-11-10
+589;Chem. Zeichen für Natrium;Na;2;chemie,kurzwort;auto;2026-11-10
+590;Chem. Zeichen für Calcium;Ca;2;chemie,kurzwort;auto;2026-11-10
+591;Chem. Zeichen für Aluminium;Al;2;chemie,kurzwort;auto;2026-11-10
+592;Chem. Zeichen für Zink;Zn;2;chemie,kurzwort;auto;2026-11-10
+593;Chem. Zeichen für Nickel;Ni;2;chemie,kurzwort;auto;2026-11-10
+594;Chem. Zeichen für Radium;Ra;2;chemie,kurzwort;auto;2026-11-10
+595;Chem. Zeichen für Argon;Ar;2;chemie,kurzwort;auto;2026-11-10
+596;Chem. Zeichen für Lithium;Li;2;chemie,kurzwort;auto;2026-11-10
+597;Chem. Zeichen für Titan;Ti;2;chemie,kurzwort;auto;2026-11-10
+598;Chem. Zeichen für Selen;Se;2;chemie,kurzwort;auto;2026-11-10
+599;Chem. Zeichen für Tellur;Te;2;chemie,kurzwort;auto;2026-11-10
+600;Chem. Zeichen für Iridium;Ir;2;chemie,kurzwort;auto;2026-11-10
+601;Chem. Zeichen für Osmium;Os;2;chemie,kurzwort;auto;2026-11-10
+602;Chem. Zeichen für Mangan;Mn;2;chemie,kurzwort;auto;2026-11-10
+603;Chem. Zeichen für Magnesium;Mg;2;chemie,kurzwort;auto;2026-11-10
+604;Chem. Zeichen für Chlor;Cl;2;chemie,kurzwort;auto;2026-11-10
+605;Chem. Zeichen für Silicium;Si;2;chemie,kurzwort;auto;2026-11-10
+606;Chem. Zeichen für Erbium;Er;2;chemie,kurzwort;auto;2026-11-10
+607;Chem. Zeichen für Europium;Eu;2;chemie,kurzwort;auto;2026-11-10
+608;Chem. Zeichen für Arsen;As;2;chemie,kurzwort;auto;2026-11-10
+609;Chem. Zeichen für Brom;Br;2;chemie,kurzwort;auto;2026-11-10
+610;Chem. Zeichen für Cobalt;Co;2;chemie,kurzwort;auto;2026-11-10
+611;Chem. Zeichen für Chrom;Cr;2;chemie,kurzwort;auto;2026-11-10
+612;Chem. Zeichen für Platin;Pt;2;chemie,kurzwort;auto;2026-11-10
+613;Chem. Zeichen für Quecksilber;Hg;2;chemie,kurzwort;auto;2026-11-10
+614;Chem. Zeichen für Tantal;Ta;2;chemie,kurzwort;auto;2026-11-10
+615;Chem. Zeichen für Rhodium;Rh;2;chemie,kurzwort;auto;2026-11-10
+616;Chem. Zeichen für Indium;In;2;chemie,kurzwort;auto;2026-11-10
+617;Chem. Zeichen für Gallium;Ga;2;chemie,kurzwort;auto;2026-11-10
+618;Chem. Zeichen für Germanium;Ge;2;chemie,kurzwort;auto;2026-11-10
+619;Chem. Zeichen für Barium;Ba;2;chemie,kurzwort;auto;2026-11-10
+620;Chem. Zeichen für Bismut;Bi;2;chemie,kurzwort;auto;2026-11-10
+621;Chem. Zeichen für Cer;Ce;2;chemie,kurzwort;auto;2026-11-10
+622;Chem. Zeichen für Lanthan;La;2;chemie,kurzwort;auto;2026-11-10
+623;Chem. Zeichen für Neodym;Nd;2;chemie,kurzwort;auto;2026-11-10
+624;Chem. Zeichen für Polonium;Po;2;chemie,kurzwort;auto;2026-11-10
+625;Chem. Zeichen für Radon;Rn;2;chemie,kurzwort;auto;2026-11-10
+626;Chem. Zeichen für Ruthenium;Ru;2;chemie,kurzwort;auto;2026-11-10
+627;Chem. Zeichen für Strontium;Sr;2;chemie,kurzwort;auto;2026-11-10
+628;Chem. Zeichen für Thorium;Th;2;chemie,kurzwort;auto;2026-11-10
+629;Chem. Zeichen für Zirconium;Zr;2;chemie,kurzwort;auto;2026-11-10
+630;Chem. Zeichen für Antimon;Sb;2;chemie,kurzwort;auto;2026-11-10
+631;Chem. Zeichen für Holmium;Ho;2;chemie,kurzwort;auto;2026-11-10
+632;Chem. Zeichen für Scandium;Sc;2;chemie,kurzwort;auto;2026-11-10
+633;Chem. Zeichen für Samarium;Sm;2;chemie,kurzwort;auto;2026-11-10
+634;Chem. Zeichen für Terbium;Tb;2;chemie,kurzwort;auto;2026-11-10
+635;Chem. Zeichen für Thallium;Tl;2;chemie,kurzwort;auto;2026-11-10
+636;Chem. Zeichen für Ytterbium;Yb;2;chemie,kurzwort;auto;2026-11-10
+637;Chem. Zeichen für Dysprosium;Dy;2;chemie,kurzwort;auto;2026-11-10
+638;Chem. Zeichen für Gadolinium;Gd;2;chemie,kurzwort;auto;2026-11-10
+639;Chem. Zeichen für Hafnium;Hf;2;chemie,kurzwort;auto;2026-11-10
+640;Chem. Zeichen für Molybdän;Mo;2;chemie,kurzwort;auto;2026-11-10
+641;Chem. Zeichen für Niob;Nb;2;chemie,kurzwort;auto;2026-11-10
+642;Chem. Zeichen für Palladium;Pd;2;chemie,kurzwort;auto;2026-11-10
+643;Chem. Zeichen für Rubidium;Rb;2;chemie,kurzwort;auto;2026-11-10
+644;Chem. Zeichen für Technetium;Tc;2;chemie,kurzwort;auto;2026-11-10
+645;Chem. Zeichen für Xenon;Xe;2;chemie,kurzwort;auto;2026-11-10
+646;Chem. Zeichen für Krypton;Kr;2;chemie,kurzwort;auto;2026-11-10
+647;Chem. Zeichen für Cäsium;Cs;2;chemie,kurzwort;auto;2026-11-10
+648;Chem. Zeichen für Francium;Fr;2;chemie,kurzwort;auto;2026-11-10
+649;Chem. Zeichen für Actinium;Ac;2;chemie,kurzwort;auto;2026-11-10
+650;Chem. Zeichen für Americium;Am;2;chemie,kurzwort;auto;2026-11-10
+651;Chem. Zeichen für Einsteinium;Es;2;chemie,kurzwort;auto;2026-11-10
+652;Chem. Zeichen für Fermium;Fm;2;chemie,kurzwort;auto;2026-11-10
+653;Chem. Zeichen für Nobelium;No;2;chemie,kurzwort;auto;2026-11-10
+654;Chem. Zeichen für Lutetium;Lu;2;chemie,kurzwort;auto;2026-11-10
+655;Chem. Zeichen für Praseodym;Pr;2;chemie,kurzwort;auto;2026-11-10
+656;Chem. Zeichen für Promethium;Pm;2;chemie,kurzwort;auto;2026-11-10
+657;Chem. Zeichen für Protactinium;Pa;2;chemie,kurzwort;auto;2026-11-10
+658;Chem. Zeichen für Rhenium;Re;2;chemie,kurzwort;auto;2026-11-10
+659;Chem. Zeichen für Thulium;Tm;2;chemie,kurzwort;auto;2026-11-10
+660;Chem. Zeichen für Astat;At;2;chemie,kurzwort;auto;2026-11-10
+661;Chem. Zeichen für Berkelium;Bk;2;chemie,kurzwort;auto;2026-11-10
+662;Chem. Zeichen für Curium;Cm;2;chemie,kurzwort;auto;2026-11-10
+663;Chem. Zeichen für Mendelevium;Md;2;chemie,kurzwort;auto;2026-11-10
+664;Chem. Zeichen für Neptunium;Np;2;chemie,kurzwort;auto;2026-11-10
+665;Chem. Zeichen für Plutonium;Pu;2;chemie,kurzwort;auto;2026-11-10
+666;Chem. Zeichen für Lawrencium;Lr;2;chemie,kurzwort;auto;2026-11-10
+667;Chem. Zeichen für Beryllium;Be;2;chemie,kurzwort;auto;2026-11-10
+668;Chem. Zeichen für Cadmium;Cd;2;chemie,kurzwort;auto;2026-11-10
+669;Chem. Zeichen für Californium;Cf;2;chemie,kurzwort;auto;2026-11-10
+670;Kfz-Zeichen von Hamburg;HH;2;kfz,deutschland,kurzwort;auto;2026-11-10
+671;Kfz-Zeichen von Bremen;HB;2;kfz,deutschland,kurzwort;auto;2026-11-10
+672;Kfz-Zeichen von Dresden;DD;2;kfz,deutschland,kurzwort;auto;2026-11-10
+673;Kfz-Zeichen von Dortmund;DO;2;kfz,deutschland,kurzwort;auto;2026-11-10
+674;Kfz-Zeichen von Bonn;BN;2;kfz,deutschland,kurzwort;auto;2026-11-10
+675;Kfz-Zeichen von Kiel;KI;2;kfz,deutschland,kurzwort;auto;2026-11-10
+676;Kfz-Zeichen von Lübeck;HL;2;kfz,deutschland,kurzwort;auto;2026-11-10
+677;Kfz-Zeichen von Rostock;HRO;3;kfz,deutschland,kurzwort;auto;2026-11-10
+678;Kfz-Zeichen von Mainz;MZ;2;kfz,deutschland,kurzwort;auto;2026-11-10
+679;Kfz-Zeichen von Ulm;UL;2;kfz,deutschland,kurzwort;auto;2026-11-10
+680;Kfz-Zeichen von Freiburg;FR;2;kfz,deutschland,kurzwort;auto;2026-11-10
+681;Kfz-Zeichen von Heidelberg;HD;2;kfz,deutschland,kurzwort;auto;2026-11-10
+682;Kfz-Zeichen von Karlsruhe;KA;2;kfz,deutschland,kurzwort;auto;2026-11-10
+683;Kfz-Zeichen von Mannheim;MA;2;kfz,deutschland,kurzwort;auto;2026-11-10
+684;Kfz-Zeichen von Wiesbaden;WI;2;kfz,deutschland,kurzwort;auto;2026-11-10
+685;Kfz-Zeichen von Kassel;KS;2;kfz,deutschland,kurzwort;auto;2026-11-10
+686;Kfz-Zeichen von Erfurt;EF;2;kfz,deutschland,kurzwort;auto;2026-11-10
+687;Kfz-Zeichen von Magdeburg;MD;2;kfz,deutschland,kurzwort;auto;2026-11-10
+688;Kfz-Zeichen von Halle;HAL;3;kfz,deutschland,kurzwort;auto;2026-11-10
+689;Kfz-Zeichen von Schwerin;SN;2;kfz,deutschland,kurzwort;auto;2026-11-10
+690;Kfz-Zeichen von Bielefeld;BI;2;kfz,deutschland,kurzwort;auto;2026-11-10
+691;Kfz-Zeichen von Münster;MS;2;kfz,deutschland,kurzwort;auto;2026-11-10
+692;Kfz-Zeichen von Aachen;AC;2;kfz,deutschland,kurzwort;auto;2026-11-10
+693;Kfz-Zeichen von Bochum;BO;2;kfz,deutschland,kurzwort;auto;2026-11-10
+694;Kfz-Zeichen von Duisburg;DU;2;kfz,deutschland,kurzwort;auto;2026-11-10
+695;Kfz-Zeichen von Gelsenkirchen;GE;2;kfz,deutschland,kurzwort;auto;2026-11-10
+696;Kfz-Zeichen von Saarbrücken;SB;2;kfz,deutschland,kurzwort;auto;2026-11-10
+697;Kfz-Zeichen von Trier;TR;2;kfz,deutschland,kurzwort;auto;2026-11-10
+698;Kfz-Zeichen von Koblenz;KO;2;kfz,deutschland,kurzwort;auto;2026-11-10
+699;Kfz-Zeichen von Ingolstadt;IN;2;kfz,deutschland,kurzwort;auto;2026-11-10
+700;Kfz-Zeichen von Passau;PA;2;kfz,deutschland,kurzwort;auto;2026-11-10
+701;Kfz-Zeichen von Rosenheim;RO;2;kfz,deutschland,kurzwort;auto;2026-11-10
+702;Kfz-Zeichen von Kempten;KE;2;kfz,deutschland,kurzwort;auto;2026-11-10
+703;Kfz-Zeichen von Landshut;LA;2;kfz,deutschland,kurzwort;auto;2026-11-10
+704;Kfz-Zeichen von Oldenburg;OL;2;kfz,deutschland,kurzwort;auto;2026-11-10
+705;Kfz-Zeichen von Osnabrück;OS;2;kfz,deutschland,kurzwort;auto;2026-11-10
+706;Kfz-Zeichen von Braunschweig;BS;2;kfz,deutschland,kurzwort;auto;2026-11-10
+707;Kfz-Zeichen von Wolfsburg;WOB;3;kfz,deutschland,kurzwort;auto;2026-11-10
+708;Kfz-Zeichen von Celle;CE;2;kfz,deutschland,kurzwort;auto;2026-11-10
+709;Kfz-Zeichen von Lüneburg;LG;2;kfz,deutschland,kurzwort;auto;2026-11-10
+710;Kfz-Zeichen von Flensburg;FL;2;kfz,deutschland,kurzwort;auto;2026-11-10
+711;Kfz-Zeichen von Cottbus;CB;2;kfz,deutschland,kurzwort;auto;2026-11-10
+712;Kfz-Zeichen von Weimar;WE;2;kfz,deutschland,kurzwort;auto;2026-11-10
+713;Kfz-Zeichen von Konstanz;KN;2;kfz,deutschland,kurzwort;auto;2026-11-10
+714;Kfz-Zeichen von Reutlingen;RT;2;kfz,deutschland,kurzwort;auto;2026-11-10
+715;Kfz-Zeichen von Pforzheim;PF;2;kfz,deutschland,kurzwort;auto;2026-11-10
+716;Kfz-Zeichen von Darmstadt;DA;2;kfz,deutschland,kurzwort;auto;2026-11-10
+717;Kfz-Zeichen von Offenbach;OF;2;kfz,deutschland,kurzwort;auto;2026-11-10
+718;Kfz-Zeichen von Gießen;GI;2;kfz,deutschland,kurzwort;auto;2026-11-10
+719;Kfz-Zeichen von Fulda;FD;2;kfz,deutschland,kurzwort;auto;2026-11-10
+720;Kfz-Zeichen von Bamberg;BA;2;kfz,deutschland,kurzwort;auto;2026-11-10
+721;Kfz-Zeichen von Bayreuth;BT;2;kfz,deutschland,kurzwort;auto;2026-11-10
+722;Kfz-Zeichen von Hof;HO;2;kfz,deutschland,kurzwort;auto;2026-11-10
+723;Kfz-Zeichen von Erlangen;ER;2;kfz,deutschland,kurzwort;auto;2026-11-10
+724;Kfz-Zeichen von Tübingen;TÜ;3;kfz,deutschland,kurzwort;auto;2026-11-10
+725;Kfz-Zeichen von Göttingen;GÖ;3;kfz,deutschland,kurzwort;auto;2026-11-10
+726;Kfz-Zeichen der Schweiz;CH;2;kfz,europa,kurzwort;auto;2026-11-10
+727;Kfz-Zeichen der Niederlande;NL;2;kfz,europa,kurzwort;auto;2026-11-10
+728;Kfz-Zeichen von Polen;PL;2;kfz,europa,kurzwort;auto;2026-11-10
+729;Kfz-Zeichen von Dänemark;DK;2;kfz,europa,kurzwort;auto;2026-11-10
+730;Kfz-Zeichen von Großbritannien;GB;2;kfz,europa,kurzwort;auto;2026-11-10
+731;Kfz-Zeichen von Irland;IRL;3;kfz,europa,kurzwort;auto;2026-11-10
+732;Kfz-Zeichen der USA;USA;3;kfz,usa,kurzwort;auto;2026-11-10
+733;Abk.: Europäische Union;EU;2;abkuerzungen,kurzwort;auto;2026-11-10
+734;Abk.: Vereinte Nationen;UN;2;abkuerzungen,kurzwort;auto;2026-11-10
+735;Abk.: Doktor;Dr;2;abkuerzungen,kurzwort;auto;2026-11-10
+736;Abk.: zum Beispiel;ZB;2;abkuerzungen,kurzwort;auto;2026-11-10
+737;Abk.: und so weiter;USW;3;abkuerzungen,kurzwort;auto;2026-11-10
+738;Abk.: Kilogramm;Kg;2;abkuerzungen,kurzwort;auto;2026-11-10
+739;Abk.: Kilometer;Km;2;abkuerzungen,kurzwort;auto;2026-11-10
+740;Abk.: Zentimeter;Cm;2;abkuerzungen,kurzwort;auto;2026-11-10
+741;Abk.: Millimeter;Mm;2;abkuerzungen,kurzwort;auto;2026-11-10
+742;Abk.: Sankt;St;2;abkuerzungen,kurzwort;auto;2026-11-10
+743;Abk.: Nummer;Nr;2;abkuerzungen,kurzwort;auto;2026-11-10
+744;Abk.: Aktiengesellschaft;AG;2;abkuerzungen,kurzwort;auto;2026-11-10
+745;Abk.: Personenkraftwagen;PKW;3;abkuerzungen,kurzwort;auto;2026-11-10
+746;Abk.: Lastkraftwagen;LKW;3;abkuerzungen,kurzwort;auto;2026-11-10
+747;Abk.: Deutsche Mark;DM;2;abkuerzungen,kurzwort;auto;2026-11-10
+748;Abk.: Bundesrepublik Deutschland;BRD;3;abkuerzungen,kurzwort;auto;2026-11-10
+749;Abk.: Ostdeutschland bis 1990;DDR;3;abkuerzungen,kurzwort;auto;2026-11-10
+750;Abk.: Fernsehen;TV;2;abkuerzungen,kurzwort;auto;2026-11-10
+751;Abk.: Personal Computer;PC;2;abkuerzungen,kurzwort;auto;2026-11-10
+752;Abk.: Compact Disc;CD;2;abkuerzungen,kurzwort;auto;2026-11-10
+753;Abk.: Diskjockey;DJ;2;abkuerzungen,kurzwort;auto;2026-11-10
+754;Abk.: Volkswagen;VW;2;abkuerzungen,kurzwort;auto;2026-11-10
+755;Abk.: Fußballclub;FC;2;abkuerzungen,kurzwort;auto;2026-11-10
+756;Abk.: Sportverein;SV;2;abkuerzungen,kurzwort;auto;2026-11-10
+757;Abk.: Weltmeisterschaft;WM;2;abkuerzungen,kurzwort;auto;2026-11-10
+758;Abk.: Europameisterschaft;EM;2;abkuerzungen,kurzwort;auto;2026-11-10
+759;Abk.: das Klein|gedruckte;AGB;3;abkuerzungen,kurzwort;auto;2026-11-10
+760;Abk.: Elektronische Datenverarbeitung;EDV;3;abkuerzungen,kurzwort;auto;2026-11-10
+761;Abk.: Atomkraftwerk;AKW;3;abkuerzungen,kurzwort;auto;2026-11-10
+762;Abk.: Südwest;SW;2;abkuerzungen,kurzwort;auto;2026-11-10
+763;Abk.: Nordwest;NW;2;abkuerzungen,kurzwort;auto;2026-11-10
+764;Abk.: Nordost;NO;2;abkuerzungen,kurzwort;auto;2026-11-10
+765;Abk.: Südost;SO;2;abkuerzungen,kurzwort;auto;2026-11-10
+766;Abk.: eingetragener Verein;EV;2;abkuerzungen,kurzwort;auto;2026-11-10
+767;Abk.: Hauptbahnhof;Hbf;3;abkuerzungen,kurzwort;auto;2026-11-10
+768;Abk.: Intercity;IC;2;abkuerzungen,kurzwort;auto;2026-11-10
+769;Abk.: Intercity-Express;ICE;3;abkuerzungen,kurzwort;auto;2026-11-10
+770;Abk.: Deutsche Bahn;DB;2;abkuerzungen,kurzwort;auto;2026-11-10
+771;Abk.: Postleitzahl;PLZ;3;abkuerzungen,kurzwort;auto;2026-11-10
+772;Abk.: Informationstechnik;IT;2;abkuerzungen,kurzwort;auto;2026-11-10
+773;Abk.: künstliche Intelligenz;KI;2;abkuerzungen,kurzwort;auto;2026-11-10
+774;Abk.: Pferdestärke;PS;2;abkuerzungen,kurzwort;auto;2026-11-10
+775;Abk.: Kilowatt;KW;2;abkuerzungen,kurzwort;auto;2026-11-10
+776;Abk.: Hektar;Ha;2;abkuerzungen,kurzwort;auto;2026-11-10
+777;Abk.: Quadratmeter;Qm;2;abkuerzungen,kurzwort;auto;2026-11-10
+778;Abk.: Stunde;Std;3;abkuerzungen,kurzwort;auto;2026-11-10
+779;Abk.: Minute;Min;3;abkuerzungen,kurzwort;auto;2026-11-10
+780;Abk.: Sekunde;Sek;3;abkuerzungen,kurzwort;auto;2026-11-10
+781;Abk.: Jahrhundert;Jh;2;abkuerzungen,kurzwort;auto;2026-11-10
+782;Abk.: Anno Domini;AD;2;abkuerzungen,kurzwort;auto;2026-11-10
+783;Abk.: Professor;Prof;4;abkuerzungen,kurzwort;auto;2026-11-10
+784;Abk.: Familie;Fam;3;abkuerzungen,kurzwort;auto;2026-11-10
+785;Abk.: Telefon;Tel;3;abkuerzungen,kurzwort;auto;2026-11-10
+786;Abk.: Straße;Str;3;abkuerzungen,kurzwort;auto;2026-11-10
+787;Abk.: Ultrakurzwelle;UKW;3;abkuerzungen,kurzwort;auto;2026-11-10
+788;Abk.: Mittelwelle;MW;2;abkuerzungen,kurzwort;auto;2026-11-10
+789;Abk.: Langwelle;LW;2;abkuerzungen,kurzwort;auto;2026-11-10
+790;Abk.: ultraviolett;UV;2;abkuerzungen,kurzwort;auto;2026-11-10
+791;Abk.: Mehrwertsteuer;MwSt;4;abkuerzungen,kurzwort;auto;2026-11-10
+792;Abk.: Firmen|rechtsform;GmbH;4;abkuerzungen,kurzwort;auto;2026-11-10
+793;Abk.: Postskriptum;PS;2;abkuerzungen,kurzwort;auto;2026-11-10
+794;Abk.: Bundesliga;BL;2;abkuerzungen,kurzwort;auto;2026-11-10
+795;Abk.: Lebenslauf (lat.);CV;2;abkuerzungen,kurzwort;auto;2026-11-10
+796;Abk.: im Auftrag;IA;2;abkuerzungen,kurzwort;auto;2026-11-10
+797;Abk.: siehe unten;SU;2;abkuerzungen,kurzwort;auto;2026-11-10
+798;Abk.: Oberleitungsbus;Obus;4;abkuerzungen,kurzwort;auto;2026-11-10
+799;Römische Zahl: vier;IV;2;zahlen,kurzwort;auto;2026-11-10
+800;Römische Zahl: sechs;VI;2;zahlen,kurzwort;auto;2026-11-10
+801;Römische Zahl: neun;IX;2;zahlen,kurzwort;auto;2026-11-10
+802;Römische Zahl: elf;XI;2;zahlen,kurzwort;auto;2026-11-10
+803;Römische Zahl: vierzig;XL;2;zahlen,kurzwort;auto;2026-11-10
+804;Römische Zahl: sechzig;LX;2;zahlen,kurzwort;auto;2026-11-10
+805;Römische Zahl: neunzig;XC;2;zahlen,kurzwort;auto;2026-11-10
+806;Römische Zahl: zwei;II;2;zahlen,kurzwort;auto;2026-11-10
+807;Römische Zahl: drei;III;3;zahlen,kurzwort;auto;2026-11-10
+808;Römische Zahl: sieben;VII;3;zahlen,kurzwort;auto;2026-11-10
+809;Römische Zahl: zwölf;XII;3;zahlen,kurzwort;auto;2026-11-10
+810;Römische Zahl: hundertfünfzig;CL;2;zahlen,kurzwort;auto;2026-11-10
+811;Römische Zahl: vierhundert;CD;2;zahlen,kurzwort;auto;2026-11-10
+812;Römische Zahl: tausendfünfhundert;MD;2;zahlen,kurzwort;auto;2026-11-10
+813;Zahlwort;Zwei;4;zahlen,kurzwort;auto;2026-11-10
+814;Zahlwort;Drei;4;zahlen,kurzwort;auto;2026-11-10
+815;Zahlwort;Vier;4;zahlen,kurzwort;auto;2026-11-10
+816;Zahlwort;Fünf;5;zahlen,kurzwort;auto;2026-11-10
+817;Zahlwort;Sechs;5;zahlen,kurzwort;auto;2026-11-10
+818;Zahlwort;Acht;4;zahlen,kurzwort;auto;2026-11-10
+819;Zahlwort;Neun;4;zahlen,kurzwort;auto;2026-11-10
+820;Zahlwort;Elf;3;zahlen,kurzwort;auto;2026-11-10
+821;Männername;Otto;4;namen,kurzwort;auto;2026-11-10
+822;Männername;Udo;3;namen,kurzwort;auto;2026-11-10
+823;Männername;Uwe;3;namen,kurzwort;auto;2026-11-10
+824;Männername;Jan;3;namen,kurzwort;auto;2026-11-10
+825;Männername;Tim;3;namen,kurzwort;auto;2026-11-10
+826;Männername;Max;3;namen,kurzwort;auto;2026-11-10
+827;Männername;Ole;3;namen,kurzwort;auto;2026-11-10
+828;Männername;Ben;3;namen,kurzwort;auto;2026-11-10
+829;Männername;Nils;4;namen,kurzwort;auto;2026-11-10
+830;Männername;Erik;4;namen,kurzwort;auto;2026-11-10
+831;Männername;Egon;4;namen,kurzwort;auto;2026-11-10
+832;Männername;Emil;4;namen,kurzwort;auto;2026-11-10
+833;Männername;Ernst;5;namen,kurzwort;auto;2026-11-10
+834;Männername;Hans;4;namen,kurzwort;auto;2026-11-10
+835;Männername;Karl;4;namen,kurzwort;auto;2026-11-10
+836;Männername;Kurt;4;namen,kurzwort;auto;2026-11-10
+837;Männername;Paul;4;namen,kurzwort;auto;2026-11-10
+838;Männername;Rolf;4;namen,kurzwort;auto;2026-11-10
+839;Männername;Timo;4;namen,kurzwort;auto;2026-11-10
+840;Männername;Axel;4;namen,kurzwort;auto;2026-11-10
+841;Männername;Arne;4;namen,kurzwort;auto;2026-11-10
+842;Männername;Olaf;4;namen,kurzwort;auto;2026-11-10
+843;Männername;Ralf;4;namen,kurzwort;auto;2026-11-10
+844;Männername;Sven;4;namen,kurzwort;auto;2026-11-10
+845;Männername;Till;4;namen,kurzwort;auto;2026-11-10
+846;Männername;Leo;3;namen,kurzwort;auto;2026-11-10
+847;Männername;Ivo;3;namen,kurzwort;auto;2026-11-10
+848;Männername;Edo;3;namen,kurzwort;auto;2026-11-10
+849;Männername;Ede;3;namen,kurzwort;auto;2026-11-10
+850;Männername;Ali;3;namen,kurzwort;auto;2026-11-10
+851;Männername;Ari;3;namen,kurzwort;auto;2026-11-10
+852;Männername;Eik;3;namen,kurzwort;auto;2026-11-10
+853;Frauenname;Anna;4;namen,kurzwort;auto;2026-11-10
+854;Frauenname;Eva;3;namen,kurzwort;auto;2026-11-10
+855;Frauenname;Ida;3;namen,kurzwort;auto;2026-11-10
+856;Frauenname;Ina;3;namen,kurzwort;auto;2026-11-10
+857;Frauenname;Uta;3;namen,kurzwort;auto;2026-11-10
+858;Frauenname;Ute;3;namen,kurzwort;auto;2026-11-10
+859;Frauenname;Lea;3;namen,kurzwort;auto;2026-11-10
+860;Frauenname;Mia;3;namen,kurzwort;auto;2026-11-10
+861;Frauenname;Emma;4;namen,kurzwort;auto;2026-11-10
+862;Frauenname;Lena;4;namen,kurzwort;auto;2026-11-10
+863;Frauenname;Nina;4;namen,kurzwort;auto;2026-11-10
+864;Frauenname;Tina;4;namen,kurzwort;auto;2026-11-10
+865;Frauenname;Ella;4;namen,kurzwort;auto;2026-11-10
+866;Frauenname;Ilse;4;namen,kurzwort;auto;2026-11-10
+867;Frauenname;Erna;4;namen,kurzwort;auto;2026-11-10
+868;Frauenname;Elke;4;namen,kurzwort;auto;2026-11-10
+869;Frauenname;Inge;4;namen,kurzwort;auto;2026-11-10
+870;Frauenname;Rita;4;namen,kurzwort;auto;2026-11-10
+871;Frauenname;Gabi;4;namen,kurzwort;auto;2026-11-10
+872;Frauenname;Anke;4;namen,kurzwort;auto;2026-11-10
+873;Frauenname;Edda;4;namen,kurzwort;auto;2026-11-10
+874;Frauenname;Ria;3;namen,kurzwort;auto;2026-11-10
+875;Frauenname;Ira;3;namen,kurzwort;auto;2026-11-10
+876;Frauenname;Isa;3;namen,kurzwort;auto;2026-11-10
+877;Frauenname;Ada;3;namen,kurzwort;auto;2026-11-10
+878;Frauenname;Ela;3;namen,kurzwort;auto;2026-11-10
+879;Frauenname;Eda;3;namen,kurzwort;auto;2026-11-10
+880;Frauenname;Tea;3;namen,kurzwort;auto;2026-11-10
+881;Frauenname;Ilka;4;namen,kurzwort;auto;2026-11-10
+882;Frauenname;Irene;5;namen,kurzwort;auto;2026-11-10
+883;Frauenname;Elsa;4;namen,kurzwort;auto;2026-11-10
+884;Frauenname;Alma;4;namen,kurzwort;auto;2026-11-10
+885;Frauenname;Rosa;4;namen,kurzwort;auto;2026-11-10
+886;Frauenname;Nora;4;namen,kurzwort;auto;2026-11-10
+887;Frauenname;Sara;4;namen,kurzwort;auto;2026-11-10
+888;Fluss durch München;Isar;4;geographie,fluesse,deutschland;auto;2026-11-10
+889;Fluss durch Augsburg;Lech;4;geographie,fluesse,deutschland;auto;2026-11-10
+890;Nebenfluss der Elbe;Saale;5;geographie,fluesse,deutschland;auto;2026-11-10
+891;Fluss in Schleswig-Holstein;Eider;5;geographie,fluesse,deutschland;auto;2026-11-10
+892;Fluss durch Bern;Aare;4;geographie,fluesse,europa;auto;2026-11-10
+893;Längster Fluss Frankreichs;Loire;5;geographie,fluesse,europa;auto;2026-11-10
+894;Grenzfluss zu Polen;Oder;4;geographie,fluesse,deutschland;auto;2026-11-10
+895;Fluss durch Emden;Ems;3;geographie,fluesse,deutschland,kurzwort;auto;2026-11-10
+896;Fluss durch Gießen;Lahn;4;geographie,fluesse,deutschland;auto;2026-11-10
+897;Quellfluss der Weser;Werra;5;geographie,fluesse,deutschland;auto;2026-11-10
+898;Fluss durch Weimar;Ilm;3;geographie,fluesse,deutschland,kurzwort;auto;2026-11-10
+899;Längster Fluss Italiens;Po;2;geographie,fluesse,europa,kurzwort;auto;2026-11-10
+900;Fluss in Spanien;Ebro;4;geographie,fluesse,europa;auto;2026-11-10
+901;Strom in Sibirien;Ob;2;geographie,fluesse,asien,kurzwort;auto;2026-11-10
+902;Strom in Sibirien;Lena;4;geographie,fluesse,asien;auto;2026-11-10
+903;Heiliger Fluss Indiens;Ganges;6;geographie,fluesse,asien;auto;2026-11-10
+904;Strom in Zentralafrika;Kongo;5;geographie,fluesse,afrika;auto;2026-11-10
+905;Stadt an der Donau in Württemberg;Ulm;3;geographie,deutschland,staedte,kurzwort;auto;2026-11-10
+906;Stadt in Westfalen;Hamm;4;geographie,deutschland,staedte;auto;2026-11-10
+907;Stadt am Main bei Frankfurt;Hanau;5;geographie,deutschland,staedte;auto;2026-11-10
+908;Stadt in Thüringen;Gera;4;geographie,deutschland,staedte;auto;2026-11-10
+909;Stadt an der Saale;Halle;5;geographie,deutschland,staedte;auto;2026-11-10
+910;Hafenstadt in Ostfriesland;Emden;5;geographie,deutschland,staedte;auto;2026-11-10
+911;Stadt im Ruhrgebiet;Essen;5;geographie,deutschland,staedte;auto;2026-11-10
+912;Frühere Bundeshauptstadt;Bonn;4;geographie,deutschland,staedte;auto;2026-11-10
+913;Hauptstadt Schleswig-Holsteins;Kiel;4;geographie,deutschland,staedte;auto;2026-11-10
+914;Stadt mit schiefem Turm;Pisa;4;geographie,europa,staedte;auto;2026-11-10
+915;Stadt am Comer See;Como;4;geographie,europa,staedte;auto;2026-11-10
+916;Stadt an der Rhône;Lyon;4;geographie,europa,staedte;auto;2026-11-10
+917;Stadt an der Côte d'Azur;Nizza;5;geographie,europa,staedte;auto;2026-11-10
+918;Stadt in Flandern;Gent;4;geographie,europa,staedte;auto;2026-11-10
+919;Hauptstadt der Steiermark;Graz;4;geographie,europa,staedte;auto;2026-11-10
+920;Stadt am Rheinknie;Basel;5;geographie,europa,staedte;auto;2026-11-10
+921;Baleareninsel;Ibiza;5;geographie,inseln,europa;auto;2026-11-10
+922;Stadt in Südschweden;Malmö;6;geographie,europa,staedte;auto;2026-11-10
+923;Hafenstadt in Norwegen;Bergen;6;geographie,europa,staedte;auto;2026-11-10
+924;Stadt in Japan;Osaka;5;geographie,asien,staedte;auto;2026-11-10
+925;Stadt in Nevada;Reno;4;geographie,usa,staedte;auto;2026-11-10
+926;Stadt des Taj Mahal;Agra;4;geographie,asien,staedte;auto;2026-11-10
+927;Alte Inka-Hauptstadt;Cusco;5;geographie,suedamerika,staedte;auto;2026-11-10
+928;Kleines Raubtier;Iltis;5;tiere,kurzwort;auto;2026-11-10
+929;Nordamerikanisches Wildrind;Bison;5;tiere;auto;2026-11-10
+930;Scheues Waldtier;Reh;3;tiere,wald,kurzwort;auto;2026-11-10
+931;Rabenvogel mit grauem Nacken;Dohle;5;tiere,voegel;auto;2026-11-10
+932;Greifvogel mit Gabelschwanz;Milan;5;tiere,voegel;auto;2026-11-10
+933;Weißer Wasservogel;Schwan;6;tiere,voegel;auto;2026-11-10
+934;Schnatternder Wasservogel;Ente;4;tiere,voegel,kurzwort;auto;2026-11-10
+935;Nordischer Hirsch;Ren;3;tiere,arktis,kurzwort;auto;2026-11-10
+936;Junges Schaf;Lamm;4;tiere,bauernhof,kurzwort;auto;2026-11-10
+937;Afrikanische Antilope;Gnu;3;tiere,afrika,kurzwort;auto;2026-11-10
+938;Kurzhalsgiraffe;Okapi;5;tiere,afrika;auto;2026-11-10
+939;Andentier;Lama;4;tiere,suedamerika,kurzwort;auto;2026-11-10
+940;Kleines Pferd;Pony;4;tiere,kurzwort;auto;2026-11-10
+941;Großer Papagei;Ara;3;tiere,voegel,kurzwort;auto;2026-11-10
+942;Großer Eulenvogel;Uhu;3;tiere,voegel,kurzwort;auto;2026-11-10
+943;Martinsvogel;Gans;4;tiere,voegel,kurzwort;auto;2026-11-10
+944;Raubfisch im Meer;Hai;3;tiere,fische,meer,kurzwort;auto;2026-11-10
+945;Großer Süßwasserfisch;Wels;4;tiere,fische,kurzwort;auto;2026-11-10
+946;Rosa Speisefisch;Lachs;5;tiere,fische;auto;2026-11-10
+947;Stachelflosser;Barsch;6;tiere,fische;auto;2026-11-10
+948;Nesseltier;Qualle;6;tiere,meer;auto;2026-11-10
+949;Wassermarder;Otter;5;tiere;auto;2026-11-10
+950;Grimbart in der Fabel;Dachs;5;tiere,wald;auto;2026-11-10
+951;Meister Lampe;Hase;4;tiere,wald,kurzwort;auto;2026-11-10
+952;Feuerkröte;Unke;4;tiere,kurzwort;auto;2026-11-10
+953;Schwanzlurch;Molch;5;tiere;auto;2026-11-10
+954;Kleiner Parasit;Laus;4;tiere,insekten,kurzwort;auto;2026-11-10
+955;Springender Parasit;Floh;4;tiere,insekten,kurzwort;auto;2026-11-10
+956;Gelb-schwarzes Insekt;Wespe;5;tiere,insekten;auto;2026-11-10
+957;Dicke Wildbiene;Hummel;6;tiere,insekten;auto;2026-11-10
+958;Blutsauger;Zecke;5;tiere,insekten;auto;2026-11-10
+959;Fliegenlarve;Made;4;tiere,insekten,kurzwort;auto;2026-11-10
+960;Hausrind;Rind;4;tiere,bauernhof,kurzwort;auto;2026-11-10
+961;Kastriertes Rind;Ochse;5;tiere,bauernhof;auto;2026-11-10
+962;Männliches Rind;Stier;5;tiere,bauernhof;auto;2026-11-10
+963;Altes Pferd;Gaul;4;tiere,bauernhof,kurzwort;auto;2026-11-10
+964;Männliche Katze;Kater;5;tiere,haustiere;auto;2026-11-10
+965;Junges Schwein;Ferkel;6;tiere,bauernhof;auto;2026-11-10
+966;Fingerende;Nagel;5;koerper;auto;2026-11-10
+967;Teil des Unterschenkels;Wade;4;koerper,kurzwort;auto;2026-11-10
+968;Körpermitte;Bauch;5;koerper;auto;2026-11-10
+969;Teil des Gesichts;Stirn;5;koerper;auto;2026-11-10
+970;Unterer Gesichtsteil;Kinn;4;koerper,kurzwort;auto;2026-11-10
+971;Augendeckel;Lid;3;koerper,kurzwort;auto;2026-11-10
+972;Mundrand;Lippe;5;koerper;auto;2026-11-10
+973;Kauwerkzeug;Zahn;4;koerper,kurzwort;auto;2026-11-10
+974;Blutgefäß;Ader;4;koerper,kurzwort;auto;2026-11-10
+975;Obere Gliedmaße;Arm;3;koerper,kurzwort;auto;2026-11-10
+976;Untere Gliedmaße;Bein;4;koerper,kurzwort;auto;2026-11-10
+977;Körperteil zum Stehen;Fuß;4;koerper,kurzwort;auto;2026-11-10
+978;Brustkorbknochen;Rippe;5;koerper;auto;2026-11-10
+979;Unterarmknochen;Elle;4;koerper,kurzwort;auto;2026-11-10
+980;Denkorgan;Hirn;4;koerper,kurzwort;auto;2026-11-10
+981;Größtes Organ;Haut;4;koerper,kurzwort;auto;2026-11-10
+982;Roter Lebenssaft;Blut;4;koerper,kurzwort;auto;2026-11-10
+983;Kartenspiel;Skat;4;spiele,kurzwort;auto;2026-11-10
+984;Höchste Spielkarte;Ass;3;spiele,kurzwort;auto;2026-11-10
+985;Glücksspiel;Lotto;5;spiele;auto;2026-11-10
+986;Weinbehälter;Fass;4;alltag,kurzwort;auto;2026-11-10
+987;Bierbehälter;Krug;4;alltag,kurzwort;auto;2026-11-10
+988;Trinkgefäß;Glas;4;alltag,kurzwort;auto;2026-11-10
+989;Kaffeegefäß;Tasse;5;alltag;auto;2026-11-10
+990;Kochgefäß;Topf;4;alltag,kurzwort;auto;2026-11-10
+991;Bratgefäß;Pfanne;6;alltag;auto;2026-11-10
+992;Essbesteck mit Zinken;Gabel;5;alltag;auto;2026-11-10
+993;Schneidwerkzeug;Messer;6;alltag;auto;2026-11-10
+994;Heizgerät;Ofen;4;alltag,kurzwort;auto;2026-11-10
+995;Kochstelle;Herd;4;alltag,kurzwort;auto;2026-11-10
+996;Polstermöbel;Sofa;4;alltag,wohnen,kurzwort;auto;2026-11-10
+997;Kopfbedeckung;Hut;3;kleidung,kurzwort;auto;2026-11-10
+998;Wollene Kopfbedeckung;Mütze;6;kleidung;auto;2026-11-10
+999;Damenkleidungsstück;Rock;4;kleidung,kurzwort;auto;2026-11-10
+1000;Oberbekleidung;Hemd;4;kleidung,kurzwort;auto;2026-11-10
+1001;Beinkleid;Hose;4;kleidung,kurzwort;auto;2026-11-10
+1002;Halswärmer;Schal;5;kleidung;auto;2026-11-10
+1003;Langes Damenkleidungsstück;Kleid;5;kleidung;auto;2026-11-10
+1004;Fußbekleidung;Socke;5;kleidung;auto;2026-11-10
+1005;Fußbekleidung;Schuh;5;kleidung,kurzwort;auto;2026-11-10
+1006;Fingerschmuck;Ring;4;kleidung,kurzwort;auto;2026-11-10
+1007;Halsschmuck;Kette;5;kleidung;auto;2026-11-10
+1008;Tanzfest;Ball;4;alltag,kurzwort;auto;2026-11-10
+1009;Runder Fahrzeugteil;Rad;3;technik,verkehr,kurzwort;auto;2026-11-10
+1010;Linienfahrzeug;Bus;3;technik,verkehr,kurzwort;auto;2026-11-10
+1011;Straßenbahn;Tram;4;technik,verkehr,kurzwort;auto;2026-11-10
+1012;Mietwagen mit Fahrer;Taxi;4;technik,verkehr,kurzwort;auto;2026-11-10
+1013;Kleines Wasserfahrzeug;Boot;4;technik,verkehr,meer,kurzwort;auto;2026-11-10
+1014;Holzfahrzeug auf dem Wasser;Floß;5;technik,verkehr,kurzwort;auto;2026-11-10
+1015;Hafenmauer;Kai;3;meer,kurzwort;auto;2026-11-10
+1016;Schiffsanlegestelle;Hafen;5;meer;auto;2026-11-10
+1017;Segelstange;Mast;4;meer,kurzwort;auto;2026-11-10
+1018;Windfang am Boot;Segel;5;meer;auto;2026-11-10
+1019;Halt des Schiffes;Anker;5;meer;auto;2026-11-10
+1020;Vorderteil des Schiffes;Bug;3;meer,kurzwort;auto;2026-11-10
+1021;Hinterteil des Schiffes;Heck;4;meer,kurzwort;auto;2026-11-10
+1022;Schiffsboden;Kiel;4;meer,kurzwort;auto;2026-11-10
+1023;Schiffsplanke oben;Deck;4;meer,kurzwort;auto;2026-11-10
+1024;Schiffsgeländer;Reling;6;meer;auto;2026-11-10
+1025;Blätter der Bäume;Laub;4;natur,kurzwort;auto;2026-11-10
+1026;Waldbodenpflanze;Moos;4;natur,kurzwort;auto;2026-11-10
+1027;Wiesenpflanze;Gras;4;natur,kurzwort;auto;2026-11-10
+1028;Getrocknetes Gras;Heu;3;natur,bauernhof,kurzwort;auto;2026-11-10
+1029;Getreidehalme;Stroh;5;natur,bauernhof;auto;2026-11-10
+1030;Getreidekörner;Korn;4;natur,kurzwort;auto;2026-11-10
+1031;Kolbenfrucht;Mais;4;natur,essen,kurzwort;auto;2026-11-10
+1032;Bierzutat;Hopfen;6;natur,essen;auto;2026-11-10
+1033;Bierrohstoff;Malz;4;natur,essen,kurzwort;auto;2026-11-10
+1034;Glückspflanze;Klee;4;natur,pflanzen,kurzwort;auto;2026-11-10
+1035;Blume und Gewürz;Nelke;5;natur,pflanzen,blumen;auto;2026-11-10
+1036;Wappenblume;Lilie;5;natur,pflanzen,blumen;auto;2026-11-10
+1037;Rote Feldblume;Mohn;4;natur,pflanzen,blumen,kurzwort;auto;2026-11-10
+1038;Schwertlilie;Iris;4;natur,pflanzen,blumen,kurzwort;auto;2026-11-10
+1039;Baum am Wasser;Erle;4;natur,pflanzen,wald,kurzwort;auto;2026-11-10
+1040;Dorfbaum;Linde;5;natur,pflanzen,wald;auto;2026-11-10
+1041;Baum mit Bucheckern;Buche;5;natur,pflanzen,wald;auto;2026-11-10
+1042;Weltenbaum der Germanen;Esche;5;natur,pflanzen,wald;auto;2026-11-10
+1043;Nadelbaum;Kiefer;6;natur,pflanzen,wald;auto;2026-11-10
+1044;Nadelbaum;Eibe;4;natur,pflanzen,wald,kurzwort;auto;2026-11-10
+1045;Weihnachtsbaum;Fichte;6;natur,pflanzen,wald;auto;2026-11-10
+1046;Tropenbaum;Palme;5;natur,pflanzen;auto;2026-11-10
+1047;Gepflegte Grasfläche;Rasen;5;natur;auto;2026-11-10
+1048;Viele Bäume;Wald;4;natur,wald,kurzwort;auto;2026-11-10
+1049;Kleiner Wald;Hain;4;natur,wald,kurzwort;auto;2026-11-10
+1050;Flussniederung;Aue;3;natur,kurzwort;auto;2026-11-10
+1051;Senke zwischen Bergen;Tal;3;natur,berge,kurzwort;auto;2026-11-10
+1052;Erhebung;Berg;4;natur,berge,kurzwort;auto;2026-11-10
+1053;Abhang;Hang;4;natur,berge,kurzwort;auto;2026-11-10
+1054;Bergspitze;Gipfel;6;natur,berge;auto;2026-11-10
+1055;Großer Stein;Fels;4;natur,berge,kurzwort;auto;2026-11-10
+1056;Strandmaterial;Sand;4;natur,kurzwort;auto;2026-11-10
+1057;Töpfermaterial;Ton;3;natur,kurzwort;auto;2026-11-10
+1058;Metallhaltiges Gestein;Erz;3;natur,kurzwort;auto;2026-11-10
+1059;Brennstoff aus dem Bergwerk;Kohle;5;natur;auto;2026-11-10
+1060;Flüchtiger Brennstoff;Gas;3;natur,kurzwort;auto;2026-11-10
+1061;Wasser als Gas;Dampf;5;natur;auto;2026-11-10
+1062;Trübe Luft;Nebel;5;natur,wetter;auto;2026-11-10
+1063;Luftbewegung;Wind;4;natur,wetter,kurzwort;auto;2026-11-10
+1064;Himmelsgebilde;Wolke;5;natur,wetter;auto;2026-11-10
+1065;Eiskörner;Hagel;5;natur,wetter;auto;2026-11-10
+1066;Kälte unter null;Frost;5;natur,wetter;auto;2026-11-10
+1067;Brennende Kohle;Glut;4;natur,kurzwort;auto;2026-11-10
+1068;Verbrannter Rest;Asche;5;natur;auto;2026-11-10
+1069;Qualm;Rauch;5;natur;auto;2026-11-10
+1070;Helligkeit;Licht;5;natur;auto;2026-11-10
+1071;Himmelslicht;Stern;5;natur,astronomie;auto;2026-11-10
+1072;Weltraum;All;3;natur,astronomie,kurzwort;auto;2026-11-10
+1073;Rand eines Gewässers;Ufer;4;natur,kurzwort;auto;2026-11-10
+1074;Land im Wasser;Insel;5;natur,inseln;auto;2026-11-10
+1075;Salzwasserfläche;Meer;4;natur,meer,kurzwort;auto;2026-11-10
+1076;Wasserbewegung;Welle;5;natur,meer;auto;2026-11-10
+1077;Hochwasser;Flut;4;natur,meer,kurzwort;auto;2026-11-10
+1078;Niedrigwasser;Ebbe;4;natur,meer,kurzwort;auto;2026-11-10
+1079;Küstengebiet bei Ebbe;Watt;4;natur,meer,kurzwort;auto;2026-11-10
+1080;Einbuchtung der Küste;Bucht;5;natur,meer;auto;2026-11-10
+1081;Korallenbank;Riff;4;natur,meer,kurzwort;auto;2026-11-10
+1082;Landspitze;Kap;3;natur,meer,kurzwort;auto;2026-11-10
+1083;Wasserstelle in der Wüste;Oase;4;natur,wueste,kurzwort;auto;2026-11-10
+1084;Sandhügel;Düne;5;natur,meer,kurzwort;auto;2026-11-10
+1085;Sumpfland;Moor;4;natur,kurzwort;auto;2026-11-10
+1086;Kleines Gewässer;Teich;5;natur;auto;2026-11-10
+1087;Ursprung eines Baches;Quelle;6;natur;auto;2026-11-10
+1088;Gegenteil von alt;Jung;4;sprache,kurzwort;auto;2026-11-10
+1089;Gegenteil von arm;Reich;5;sprache;auto;2026-11-10
+1090;Gegenteil von dick;Dünn;5;sprache,kurzwort;auto;2026-11-10
+1091;Gegenteil von weich;Hart;4;sprache,kurzwort;auto;2026-11-10
+1092;Gegenteil von nass;Trocken;7;sprache;auto;2026-11-10
+1093;Gegenteil von leer;Voll;4;sprache,kurzwort;auto;2026-11-10
+1094;Gegenteil von früh;Spät;5;sprache,kurzwort;auto;2026-11-10
+1095;Gegenteil von laut;Leise;5;sprache;auto;2026-11-10
+1096;Gegenteil von süß;Sauer;5;sprache;auto;2026-11-10
+1097;Gegenteil von krank;Gesund;6;sprache;auto;2026-11-10
+1098;Sehr alt;Uralt;5;sprache;auto;2026-11-10
+1099;Hilfsverb;Haben;5;sprache;auto;2026-11-10
+1100;Hilfsverb;Werden;6;sprache;auto;2026-11-10
+1101;Tongeschlecht;Dur;3;musik,kurzwort;auto;2026-11-10
+1102;Traurige Tonart;Moll;4;musik,kurzwort;auto;2026-11-10
+1103;Musikstil aus New Orleans;Jazz;4;musik,kurzwort;auto;2026-11-10
+1104;Musikstil mit E-Gitarre;Rock;4;musik,kurzwort;auto;2026-11-10
+1105;Populäre Musik;Pop;3;musik,kurzwort;auto;2026-11-10
+1106;Musikstil, Gefühl;Soul;4;musik,kurzwort;auto;2026-11-10
+1107;Sprechgesang;Rap;3;musik,kurzwort;auto;2026-11-10
+1108;Schwermütiger Musikstil;Blues;5;musik;auto;2026-11-10
+1109;Rebellischer Musikstil;Punk;4;musik,kurzwort;auto;2026-11-10
+1110;Jazzstil der 30er;Swing;5;musik;auto;2026-11-10
+1111;Musikstil mit Groove;Funk;4;musik,kurzwort;auto;2026-11-10
+1112;Tanz aus Argentinien;Tango;5;musik;auto;2026-11-10
+1113;Tanz im Dreivierteltakt;Walzer;6;musik;auto;2026-11-10
+1114;Brasilianischer Tanz;Samba;5;musik;auto;2026-11-10
+1115;Kubanischer Tanz;Salsa;5;musik;auto;2026-11-10
+1116;Böhmischer Tanz;Polka;5;musik;auto;2026-11-10
+1117;Sologesang in der Oper;Arie;4;musik,kurzwort;auto;2026-11-10
+1118;Sängergruppe;Chor;4;musik,kurzwort;auto;2026-11-10
+1119;Zweiergruppe;Duo;3;musik,kurzwort;auto;2026-11-10
+1120;Dreiergruppe;Trio;4;musik,kurzwort;auto;2026-11-10
+1121;Laut, Klang;Ton;3;musik,kurzwort;auto;2026-11-10
+1122;Musikalisches Maß;Takt;4;musik,kurzwort;auto;2026-11-10
+1123;Saiteninstrument der Engel;Harfe;5;musik,instrumente;auto;2026-11-10
+1124;Altes Zupfinstrument;Laute;5;musik,instrumente;auto;2026-11-10
+1125;Kircheninstrument;Orgel;5;musik,instrumente;auto;2026-11-10
+1126;Tiefes Blechblasinstrument;Tuba;4;musik,instrumente,kurzwort;auto;2026-11-10
+1127;Blasinstrument des Jägers;Horn;4;musik,instrumente,kurzwort;auto;2026-11-10
+1128;Doppelrohrblattinstrument;Oboe;4;musik,instrumente,kurzwort;auto;2026-11-10
+1129;Klangscheibe;Gong;4;musik,instrumente,kurzwort;auto;2026-11-10
+1130;Kesseltrommel;Pauke;5;musik,instrumente;auto;2026-11-10
+1131;Ägyptischer Sonnengott;Ra;2;mythologie,kurzwort;auto;2026-11-10
+1132;Ägyptische Göttin;Isis;4;mythologie,kurzwort;auto;2026-11-10
+1133;Nordischer Gott der List;Loki;4;mythologie,kurzwort;auto;2026-11-10
+1134;Germanische Liebesgöttin;Freya;5;mythologie;auto;2026-11-10
+1135;Griech. Göttin der Morgenröte;Eos;3;mythologie,kurzwort;auto;2026-11-10
+1136;Griechischer Kriegsgott;Ares;4;mythologie,kurzwort;auto;2026-11-10
+1137;Griechischer Liebesgott;Eros;4;mythologie,kurzwort;auto;2026-11-10
+1138;Griechische Göttin der Weisheit;Athene;6;mythologie;auto;2026-11-10
+1139;Griechischer Meeresgott;Poseidon;8;mythologie;auto;2026-11-10
+1140;Römische Göttermutter;Juno;4;mythologie,kurzwort;auto;2026-11-10
+1141;Erster Mensch der Bibel;Adam;4;bibel,kurzwort;auto;2026-11-10
+1142;Erste Frau der Bibel;Eva;3;bibel,kurzwort;auto;2026-11-10
+1143;Erbauer der Arche;Noah;4;bibel,kurzwort;auto;2026-11-10
+1144;Brudermörder der Bibel;Kain;4;bibel,kurzwort;auto;2026-11-10
+1145;Sohn Adams;Abel;4;bibel,kurzwort;auto;2026-11-10
+1146;Sohn Abrahams;Isaak;5;bibel;auto;2026-11-10
+1147;Paradiesgarten;Eden;4;bibel,kurzwort;auto;2026-11-10
